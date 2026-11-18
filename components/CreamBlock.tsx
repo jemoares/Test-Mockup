@@ -358,18 +358,23 @@ function ChannelCard({ channel }: { channel: Channel }) {
           <span
             className="font-ivy"
             style={{
-              position: "absolute",
-              bottom: r(50),
-              left: isMobile ? r(30) : r(10),
-              right: isMobile && isIconicCard ? r(15) : r(24),
-              fontSize: isMobile
-                ? isIconicCard ? r(60) : r(60)
-                : r(30),
-              lineHeight: isMobile ? "100%" : r(36),
-              letterSpacing: r(-0.4),
-              color: "#fff",
-              zIndex: 1,
-            }}
+            position: "absolute",
+
+            // Original desktop position retained
+            bottom: isMobile && isIconicCard ? r(45) : r(30),
+
+            left: isMobile ? r(30) : r(10),
+            right: isMobile && isIconicCard ? r(15) : r(24),
+
+            fontSize: isMobile
+              ? isIconicCard ? r(68) : r(60)
+              : r(30),
+
+            lineHeight: isMobile ? "100%" : r(36),
+            letterSpacing: r(-0.4),
+            color: "#fff",
+            zIndex: 1,
+          }}
           >
       {isMobile && isIconicCard ? (
         <>
