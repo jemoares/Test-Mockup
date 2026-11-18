@@ -129,7 +129,9 @@ function RelatedCard({ img, delay, title, href }: { img: string; delay: number, 
           position: "relative",
           width: "100%",
           aspectRatio: isMobile ? "1 / 1" : "200 / 228",
-          color: COLORS.white,
+          color: title?.toLowerCase().includes("diplomat")
+          ? COLORS.black
+          : COLORS.white,
         }}
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -163,7 +165,13 @@ function RelatedCard({ img, delay, title, href }: { img: string; delay: number, 
               className="arrow"
               src={A("arrow-card.svg")}
               alt=""
-              style={{ width: isMobile ? r(60) : r(16), height: isMobile ? r(30) : r(9), filter: "invert(1)" }}
+              style={{
+              width: isMobile ? r(60) : r(16),
+              height: isMobile ? r(30) : r(9),
+              filter: title?.toLowerCase().includes("diplomat")
+                ? "none"
+                : "invert(1)",
+            }}
             />
           </div>
         </Reveal>
