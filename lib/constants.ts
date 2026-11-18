@@ -43,7 +43,7 @@ export const FOUR_CHANNELS: Channel[] = [
   {
     number: "02",
     title: "Featured POV",
-    image: "whatnot-hero",
+    image: "paul-greenberg",
     href: "/article/the-diplomat-behind-australias-live-selling-boom",
   },
   {
@@ -61,14 +61,14 @@ export const FOUR_CHANNELS: Channel[] = [
   {
     number: "04",
     title: "Behind the scenes at THE ICONIC",
-    image: "behind-the-scenes-tall-edited",
+    image: "bts-the-iconic",
     href: "/article/behind-the-scenes-at-the-iconic",
   },
 ];
 
 export const CHANNELS = [
   {
-    slug: "/article/bridging-worlds-to-thrive",
+    slug: "/article/the-diplomat-behind-australias-live-selling-boom",
     title: "Featured POV",
     height1: 2000,
     height2: 1500,
@@ -86,8 +86,8 @@ export const CHANNELS = [
     height2: 2500,
   },
   {
-    slug: "/article/behind-the-scenes-at-nora",
-    title: "Behind the scenes at NORA",
+    slug: "/article/behind-the-scenes-at-the-iconic",
+    title: "Behind the scenes at THE ICONIC",
     height1: 2100,
     height2: 1500,
   },
@@ -181,20 +181,20 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     href: "/article/an-analogue-lens-in-a-digital-ai-world/",
     author: "Featured writer: Paul Greenberg, chair, NORA",
     image: "Analog-Lens-Tile.jpg",
-    date: "2026-06-26T00:00:00Z",
+    date: "2026-06-10T00:00:00Z",
   },
   {
     kind: "wide",
     left: 0,
     top: 0,
     blurb:
-      "The wrong soundtrack is actively driving customers out the door ",
+      "As retailers turn to AI to tackle recruitment pressures, Wingstop Australia...",
     title:
-      "What AI in retail needs from the systems underneath it",
+      "Can AI make recruitment more human? Wingstop Australia thinks so.",
     href: "/article/what-ai-in-retail-needs-from-the-systems-underneath-it",
-    image: "Annexa-Hero-Image-Article.jpg",
-    date: "2026-07-15T00:00:00Z",
-    author: "In collaboration with Annexa"
+    image: "Workday-Tile.jpg",
+    date: "2026-11-02T00:00:00Z",
+    author: "In collaboration with Workday"
   },
   {
     kind: "tall",
@@ -212,12 +212,12 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     left: 0,
     top: 0,
     blurb:
-      "\'Purpose can no longer be peripheral, but must become essential.\'",
-    title: "Bridging \n worlds\n to thrive",
-    href: "/article/bridging-worlds-to-thrive/",
-    author: "Jeremy Meltzer, founder & CEO, i=Change",
-    image: "Bridging-Worlds-That-Thrive-Tile.jpg",
-    date: "2026-08-21T00:00:00Z",
+      "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
+    title: "The diplomat behind Australia’s live selling boom",
+    href: "/article/the-diplomat-behind-australias-live-selling-boom",
+    author: "",
+    image: "Whatnot-Tile.jpg",
+    date: "2026-11-09T00:00:00Z",
     textColor: "black"
   },
   {
@@ -229,7 +229,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     title: "Retail at a turning point",
     href: "/article/retail-at-a-turning-point",
     image: "retail-tile.jpg",
-    date: "2026-07-15T00:00:00Z",
+    date: "2026-07-25T00:00:00Z",
     author: "Peter Knock, NORA Berlin correspondent",
   },
   {
@@ -253,12 +253,13 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     left: 0,
     top: 0,
     blurb:
-      "",
+      "As retailers turn to AI to tackle recruitment pressures, Wingstop Australia...",
     caption: "Behind the Scenes at NORA",
     title:
       "Can AI make recruitment more human? Wingstop Australia thinks so.",
     href: "/article/can-ai-make-recruitment-more-human-wingstop-australia-thinks-so",
-    image: "Cin7-Tile.jpg",
+    image: "Workday-Tile.jpg",
+    date: "2026-11-02T00:00:00Z",
     author: "In collaboration with Workday",
   },
     {
@@ -266,23 +267,25 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     left: 0,
     top: 0,
     blurb:
-      "Agentic AI has moved past the demonstration stage in retail. A look at five operational jobs agents are being given today and what separates a good first candidate",
+      "Agentic AI has moved past the demonstration stage in retail. A look at five operational...",
     caption: "Putting AI agents to work for multi-location brands",
     title: "Putting AI agents to work for multi-location brands",
     href: "/article/putting-ai-agents-to-work-for-multi-location-brands",
     author: "In collaboration with Birdeye",
-    image: "Annexa-Tile.jpg",
-    textColor: "black"
+    image: "Birdeye-Tile.jpg",
+    date: "2026-11-04T00:00:00Z",
+    textColor: "white"
   },
   {
     kind: "tall",
     left: 0,
     top: 0,
-    blurb: "",
+    blurb: "Australian retailers are investing heavily in AI. Far fewer have a record their systems...",
     title:
       "What AI in retail needs from the systems underneath it",
     href: "/article/what-ai-in-retail-needs-from-the-systems-underneath-it",
-    image: "",
+    image: "Annexa-Tile.jpg",
+    date: "2026-11-07T00:00:00Z",
     author: "In collaboration with Annexa"
   },
   {
@@ -295,7 +298,9 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     title: "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
     author: "In collaboration with Fujitsu",
     href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner",
-    image: "TWP-tile.jpg"
+    image: "Fujitsu-Tile.jpg",
+    date: "2026-11-11T00:00:00Z",
+    textColor: "black"
   },
   // {
   //   kind: "wide",
@@ -313,9 +318,10 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     top: 0,
     title: "Velocity Summit 2026 Wrap-up",
     caption: "Behind the Scenes at NORA",
-    blurb: "",
+    blurb: "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered...",
     href: "/article/velocity-summit-2026-wrap-up",
-    image: "Rest-Tile.jpg",
+    image: "Ops-Summit-Tile.jpg",
+    date: "2026-11-13T00:00:00Z",
     author: "",
   },
   {
@@ -329,6 +335,7 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     href: "/article/complexity-economy",
     author: "In collaboration with Feedonomics",
     image: "Complexity-Economy-Tile.jpg",
+    date: "2026-06-10T00:00:00Z",
   },
 ];
 
