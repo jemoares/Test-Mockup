@@ -758,7 +758,7 @@ function CreativityNote({ left, top }: { left: number; top: number }) {
 
 function ArticleArrow({ left, top }: { left: number; top: number }) {
 
-  const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+  const isSafari = typeof navigator !== "undefined" && /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 
   return (
     <FadeUp y={16} amount={0.4} style={{ position: "absolute", left: r(left), top: r(top), width: r(200) }}>
