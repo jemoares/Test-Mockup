@@ -121,7 +121,7 @@ export function SectionTwo() {
             style={{ 
               position: "relative", 
               left: isMobile ? r(20) : r(59), 
-              marginTop: isMobile ? r(100) : r(40), 
+              marginTop: isMobile ? r(100) : r(30), 
               width: isMobile ? "calc(100% - 40px)" : r(419),
               padding: isMobile ? `0 ${r(60)}` : 0
             }}
@@ -153,6 +153,7 @@ export function SectionTwo() {
               width: isMobile ? "calc(100% - 40px)" : r(419),
               padding: isMobile ? `0 ${r(60)}` : 0
             }}
+            
           >
             {/* <p
               className="font-inter"
@@ -189,7 +190,7 @@ export function SectionTwo() {
             to={HEADLINE[1]}
             style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1850) : r(600) }}
           >
-            <ReadLink href='/article/performance-trap' style={{ position: "absolute",left: isMobile ? r(60) : r(16), top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile}/>
+            <ReadLink href='/article/performance-trap' style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile}/>
 
 
           {/* <ScrollReveal
