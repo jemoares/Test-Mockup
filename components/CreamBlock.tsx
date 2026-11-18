@@ -331,6 +331,10 @@ export function ChannelsPinned() {
 
 function ChannelCard({ channel }: { channel: Channel }) {
   const isMobile = useIsMobile();
+
+  const isIconicCard = channel.title
+    .toLowerCase()
+    .includes("the iconic");
   return (
     <Link href={channel.href} style={{ "textDecoration": "none" }}>
       <div style={{ display: "flex", 
@@ -355,19 +359,48 @@ function ChannelCard({ channel }: { channel: Channel }) {
             className="font-ivy"
             style={{
               position: "absolute",
-              bottom: r(30),
+              bottom: r(50),
               left: isMobile ? r(30) : r(10),
-              right: r(24),
-              fontSize: isMobile ? r(60) : r(30),
+              right: isMobile && isIconicCard ? r(15) : r(24),
+              fontSize: isMobile
+                ? isIconicCard ? r(60) : r(60)
+                : r(30),
               lineHeight: isMobile ? "100%" : r(36),
               letterSpacing: r(-0.4),
               color: "#fff",
-              zIndex: 1
+              zIndex: 1,
             }}
           >
-          {channel.title}{" "}
-          <Arrow style={{ color: "#fff", verticalAlign: "middle", marginLeft: r(8) }} isMobile={isMobile} />
-          </span>
+      {isMobile && isIconicCard ? (
+        <>
+        <span style={{ display: "block", whiteSpace: "nowrap" }}>
+          Behind the scenes at
+        </span>
+
+        <span style={{ display: "block", whiteSpace: "nowrap" }}>
+          THE ICONIC
+          <Arrow
+            width={42}
+            style={{
+              color: "#fff",
+              display: "inline-block",
+              verticalAlign: "middle",
+              marginLeft: r(5),
+            }}
+            isMobile={false}
+          />
+        </span>
+      </>
+    ) : (
+      <>
+        {channel.title}{" "}
+        <Arrow
+          style={{ color: "#fff", verticalAlign: "middle", marginLeft: r(8) }}
+          isMobile={isMobile}
+        />
+      </>
+    )}
+  </span>
         </div>
       </div>
     </Link>

@@ -98,7 +98,7 @@ export function SectionTwo() {
               className="font-ivy"
               style={{
                 color: "#fff",
-                fontSize: isMobile ? r(150) : r(60.5),
+                fontSize: isMobile ? r(125) : r(60.5),
                 lineHeight: isMobile ? '100%' : r(55),
                 letterSpacing: r(-1.1),
                 fontWeight: 400,
@@ -174,7 +174,7 @@ export function SectionTwo() {
                 display: "block",
                 position: "relative",
                 left: isMobile ? r(-140) : r(-40),
-                top: isMobile ? r(-170) : r(-100),
+                top: isMobile ? r(-270) : r(-100),
                 width: isMobile ? r(1000) : r(250),
                 height: isMobile ? r(400) : r(150),
               }}
@@ -187,7 +187,7 @@ export function SectionTwo() {
             scale={scale}
             from={HEADLINE[0]}
             to={HEADLINE[1]}
-            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(2000) : r(600) }}
+            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1850) : r(600) }}
           >
             <ReadLink href='/article/performance-trap' style={{ position: "absolute",left: isMobile ? r(60) : r(16), top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile}/>
 

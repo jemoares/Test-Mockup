@@ -570,6 +570,11 @@
       "content": "A tour where no one was stuck at the back"
     },
     {
+      "type": "quote",
+      "content": "You can invest in the best technology in the world, but it's the people who ultimately make an operation successful. What Sue and her team have built at THE ICONIC is a great example of that. You could see the investment in their people, the ownership across the warehouse and the genuine commitment to continuous improvement. That's what makes an operation like this so impressive.",
+      "attribution": "Mon Larsen, Head of Sales &amp; Partnerships at <a href=\"https://www.starshipit.com\" target=\"_blank\" rel=\"noopener noreferrer\">Starshipit</a>"
+    },
+    {
       "type": "paragraph",
       "content": "We’ve run some great tours this year, at Shiperoo, The Winning Group and Culture Kings. This one was different, and the difference was in how Sue Wood, THE ICONIC’s Director of Operations, set it up."
     },
@@ -739,7 +744,7 @@
     },
     {
       "type": "video",
-      "src": "https://player.vimeo.com/video/1247818140",
+      "src": "https://vimeo.com/1247820642?share=copy&fl=sv&fe=ci",
       "title": "The Next Generation of POS – Fujitsu podcast"
     },
     {
@@ -1452,8 +1457,10 @@
       "content": "Whatnot began with Funko Pops, grew into trading cards and sports cards, and opened to Australian sellers on 13 October 2024 at a trading card show in Melbourne. Women’s fashion is now the category McCauley sees as the next big market. A seller goes live with a table of stock, picks up the next item and starts the bidding at $1, and buyers gather in a room with people who share their interest."
     },
     {
-      "type": "paragraph",
-      "content": "<img src=\"/assets/whatnot-body.jpg\" alt=\"A seller holding up a box while selling live on a phone\" style=\"width:100%;height:auto;display:block;margin:12px 0;\" />"
+      "type": "image",
+      "layout": "inline",
+      "src": "whatnot-body.jpg",
+      "alt": "A seller holding up a box while selling live on a phone"
     },
     {
       "type": "paragraph",
