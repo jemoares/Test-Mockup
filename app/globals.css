@@ -1,0 +1,224 @@
+/* ----------------------------------------------------------------------------
+   Reset
+---------------------------------------------------------------------------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: var(--cream);
+  color: var(--black);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Hide horizontal overflow created by the proportional scaler / off-canvas peeking card. */
+body {
+  overflow-x: hidden;
+}
+
+img,
+video {
+  display: block;
+  max-width: none;
+}
+
+p {
+  margin: 0;
+}
+
+/* ----------------------------------------------------------------------------
+   Proportional scaler
+
+   The design is authored on a 1440px canvas. We tie the root font-size to the
+   viewport width (1rem = viewportWidth / 90, i.e. 16px at exactly 1440px) and
+   express every dimension in rem. The result: at 1440px wide the layout is 1:1
+   with Figma, and below 1440px the entire page scales down proportionally so it
+   always reads identically to the design. Capped at 16px so it never grows past
+   the 1440 design size on large monitors (the canvas then simply centres).
+   rem-based sizing is used (not transform:scale) so `position: sticky` keeps
+   working for the scroll-stacking sections.
+---------------------------------------------------------------------------- */
+:root {
+  --cream: #eae5d9;
+  --navy: #0b0b2b;
+  --white: #ffffff;
+  --black: #000000;
+  --blue: #153af5;    /* comment "post" avatar */
+  --purple: #bf59ff;  /* email submit buttons */
+  --iris: #9020A9;
+
+  font-size: calc(100vw / 90);
+}
+
+@media (min-width: 1440px) {
+  :root {
+    font-size: 16px;
+  }
+}
+
+/* The full canvas, centred on monitors wider than the design. */
+.canvas {
+  width: 90rem; /* 1440px */
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  height: 100%;
+}
+
+.grid {
+  position: relative;
+  width: 90rem; /* 1440px */
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+
+.grid-article {
+  position: relative;
+  width: 90rem; /* 1440px */
+  margin-left: 20%;
+  margin-right: 80%;
+  height: 100%;
+}
+
+/* ----------------------------------------------------------------------------
+   Type families (Adobe Typekit display face + Google fallbacks used in Figma)
+---------------------------------------------------------------------------- */
+.font-ivy {
+  font-family: "ivypresto-display", Georgia, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.font-arapey {
+  font-family: "Arapey", Georgia, serif;
+}
+.font-inter {
+  font-family: "Inter", system-ui, sans-serif;
+}
+.font-caveat {
+  font-family: "Caveat", "Comic Sans MS", cursive;
+}
+
+/* Small uppercase UI label used for READ ARTICLE / nav / captions. */
+.label {
+  font-family: "Inter", system-ui, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.834rem; /* 13.351px */
+  letter-spacing: 0.125rem; /* 2.0027px */
+  line-height: 1.7;
+}
+
+/* READ ARTICLE row + hover affordance on the arrow. */
+.read-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.5rem;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.read-link .arrow {
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.read-link:hover .arrow {
+  transform: translateX(0.5rem);
+}
+
+/* Article hover overlay (first channel card). Navy panel fades in over the photo. */
+.card-overlay {
+  opacity: 0;
+  transition: opacity 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  pointer-events: none;
+}
+.card-photo:hover .card-overlay {
+  opacity: 1;
+}
+
+/* Horizontal drag/scroll carousel (channels row). Scrollbar hidden; grab cursor. */
+.carousel-track {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  cursor: grab;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  -webkit-overflow-scrolling: touch;
+}
+.carousel-track::-webkit-scrollbar {
+  display: none;
+}
+.carousel-track.dragging {
+  cursor: grabbing;
+}
+
+/* Respect reduced-motion preferences: freeze background videos + cancel reveals. */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+.arrow-link {
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+.arrow-link .arrow {
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.arrow-link:hover .arrow {
+  transform: translateX(0.4rem);
+}
+.arrow-link.back:hover .arrow {
+  transform: translateX(-0.4rem);
+}
+
+/* Related-article card image zooms gently on hover. */
+.card-img img {
+  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.card-img:hover img {
+  transform: scale(1.06);
+}
+
+.nav-menu-link:hover {
+  text-decoration: underline !important;
+}
+
+.article-button {
+  display: inline-block;
+  background: var(--iris);
+  color: white !important;
+  padding: 0.5rem 2rem;
+  font-family: 'inter', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: background-color 0.3s, color 0.3s;
+  cursor: pointer;
+}
+
+.article-button:hover {
+  background-color: white;
+  color: #0B0B2F !important;
+}
+
+@media (max-width: 768px) {
+  .article-button {
+    /* This value is based on other mobile buttons, resulting in a font size of ~16px on a 375px wide screen. */
+    font-size: 2.5rem;
+  }
+}

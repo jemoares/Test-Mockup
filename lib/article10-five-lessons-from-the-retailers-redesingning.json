@@ -1,0 +1,94 @@
+"article10": {
+    "title": "Five lessons from the retailers redesigning commerce at scale",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "Five lessons from the retailers redesigning commerce at scale",
+      "subtitle": "How JB Hi-Fi, The Good Guys, 99 Bikes and others approached the decisions that define a transformation.",
+      "byline": "In collaboration with The Working Party",
+      "meta": "10 JUNE 2026  •  2 MIN READ",
+      "heroImage": "Shopify-at-Scale.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "For enterprise retailers, transformation is rarely about changing platforms. It's about designing the architecture, operating model and technology decisions that enable the business to scale for years to come."
+      },
+      {
+        "type": "paragraph",
+        "content": "The retailers achieving the strongest outcomes haven't simply migrated to Shopify. They've rethought how technology, teams and workflows work together to create a more agile retail business."
+      },
+      {
+        "type": "paragraph",
+        "content": "The Good Guys successfully de-risked a billion-dollar migration in just six weeks. JB Hi-Fi grew its online business from $200 million to more than $1 billion over five years. 99 Bikes increased flexibility and customer experience while reducing custom code and ongoing complexity."
+      },
+      {
+        "type": "paragraph",
+        "content": "These outcomes weren't driven by platform migration alone. They came from making the right architectural decisions, simplifying technology, and building operating models designed to evolve with the business."
+      },
+      {
+        "type": "paragraph",
+        "content": "This guide brings together those lessons into a practical resource for senior retail executives responsible for digital transformation, commerce platforms and enterprise technology strategy."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "What you'll learn"
+      },
+      {
+        "type": "list",
+        "title": "Inside the guide you'll explore:",
+        "items": [
+          "The architectural decisions that should be made before any platform transformation begins.",
+          "Real examples from leading enterprise retailers and how they approached complex technology challenges.",
+          "Practical guidance on when to build, configure, integrate or rely on native platform capability.",
+          "The operating principles that create long-term flexibility rather than technical debt."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Chapter Overview"
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>1. The Single Source of Truth</strong><br/>How enterprise retailers can simplify technology by operating a single codebase across multiple brands, markets and regions while maintaining flexibility."
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>2. The Headless Myth</strong><br/>A practical look at the headed versus headless conversation in 2026, including where headless creates value and where it unnecessarily adds complexity."
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>3. The Over-Engineering Problem</strong><br/>A framework for deciding when to configure, integrate, build or extend functionality—and how to avoid unnecessary custom development."
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>4. One Customer, One System</strong><br/>Why physical retail, ecommerce and customer data should operate as one connected ecosystem rather than separate channels."
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>5. Designed to Compound</strong><br/>How to build a transformation program that continues delivering operational and commercial value long after launch."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Built from real enterprise experience"
+      },
+      {
+        "type": "paragraph",
+        "content": "Rather than focusing on product features, this guide examines the strategic and technical decisions that underpin successful enterprise retail transformation."
+      },
+      {
+        "type": "paragraph",
+        "content": "Drawing on The Working Party's more than a decade of experience, this guide brings together those lessons into a practical resource for senior retail executives responsible for digital transformation, commerce platforms and enterprise technology strategy."
+      },
+      {
+        "type": "paragraph",
+        "content": "Download the guide to explore how leading retailers are designing transformation that delivers value well beyond migration."
+      },
+      {
+        "type": "paragraph",
+        "content": "<a class=\"article-button\" target=\"_blank\" href=\"https://theworkingparty.com.au/pages/strategy-optimisation/digital-transformation?utm_source=nora&utm_medium=email&utm_campaign=transformation\">Download the guide</a>"
+      }
+    ]
+  },

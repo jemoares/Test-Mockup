@@ -1,0 +1,15 @@
+NORA Edit Mockup – GitHub Pages deployment
+
+This package is prepared for the repository:
+https://github.com/jemoares/Test-Mockup
+
+Deployment branch: nora-mockup-deploy
+Expected site URL: https://jemoares.github.io/Test-Mockup/
+
+Important:
+- This is a fresh source copy. It excludes .git history, node_modules, .next, out, .env, .env.local, and ZIP backups.
+- Do not copy .env or .env.local into this deployment copy.
+- The workflow builds with NEXT_PUBLIC_BASE_PATH=/Test-Mockup.
+- GitHub Pages must use GitHub Actions as its deployment source.
+
+See the GitHub Actions workflow at .github/workflows/deploy.yml.

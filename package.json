@@ -1,0 +1,27 @@
+{
+  "name": "tne-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/clean-next-cache.mjs && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "seed:wordpress": "node scripts/seed-wordpress.mjs",
+    "deploy": "yarn build"
+  },
+  "dependencies": {
+    "@types/luxon": "^3.7.2",
+    "framer-motion": "^11.3.0",
+    "luxon": "^3.7.2",
+    "next": "14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}

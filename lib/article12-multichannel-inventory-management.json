@@ -1,0 +1,84 @@
+"article12": {
+    "title": "Multichannel inventory management: the hidden crisis costing sellers more than they think",
+    "hero": {
+      "category": "RETAIL &middot; OPERATIONS",
+      "headline": "Multichannel inventory management: the hidden crisis costing sellers more than they think",
+      "subtitle": "Selling on multiple channels is one of the smartest moves a product business can make.",
+      "byline": "In collaboration with Cin7",
+      "meta": "10 JUNE 2026  •  5 MIN READ",
+      "heroImage": "Multichannel-inventory-management.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "elling on multiple channels is one of the smartest moves a product business can make. Businesses selling on three or more channels generate 143% more revenue than those selling on fewer. That’s not a marginal bump. It’s a fundamentally different growth trajectory.",
+        "dropCap": "S"
+      },
+      {
+        "type": "paragraph",
+        "content": "But here’s what nobody puts in the headline: the inventory challenges that come with multichannel selling are getting more expensive and more punishing than ever. Australian ecommerce businesses manufacturing in China or Hong Kong now face US duties as high as 90% of the value of their goods. Landed cost uncertainty has grown significantly, with sellers now needing to account for duties and additional customs brokerage that complicate pricing in ways they never had to before. Combine that with rising fuel costs and rising inflation and every unit costs more to source and ship. Poor inventory and order management compounds those issues, it’s a direct hit to margins that are already under pressure."
+      },
+      {
+        "type": "paragraph",
+        "content": "Inventory distortion, the gap between actual and recorded stock, costs the global retail industry $1.77 trillion every year, split between $1.2 trillion in out-of-stocks and $562 billion in overstock. That number hasn’t shrunk. It’s grown."
+      },
+      {
+        "type": "paragraph",
+        "content": "And then there’s labor. Cin7’s State of Inventory Intelligence research found that teams lose an average of 16 hours per week to manual inventory syncing across disconnected systems. That’s two full workdays, every single week, spent copying data between platforms instead of growing the business — roughly $21,632 per year, per employee."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "The challenges compounding your costs in 2026"
+      },
+      {
+        "type": "paragraph",
+        "content": "The first and most damaging problem is real-time sync. The 2026 standard for multichannel inventory sync is under five seconds end-to-end. Fifteen-minute polling cycles are now considered too slow for competitive marketplaces, because a stockout rate as low as 2% can trigger visibility loss on Amazon. Brands managing inventory manually across channels face oversell rates of 3–8% per month, each one triggering customer service costs, negative reviews, and platform penalties. That window between “good enough” and “actually reliable” is where overselling lives."
+      },
+      {
+        "type": "paragraph",
+        "content": "In 2026, online sellers are operating in the most aggressive enforcement environment the marketplace has ever seen, with AI-driven risk detection, stricter documentation standards, and faster penalties. Amazon, for example, now charges a Low Inventory Level Fee if you hold too little stock relative to your sales velocity, meaning poor inventory management doesn’t just cost you sales, it now costs you fees on top of lost revenue."
+      },
+      {
+        "type": "paragraph",
+        "content": "Then there’s demand forecasting. Amazon surges during Prime Day. Your Shopify store spikes during your own promotions. Wholesale follows seasonal ordering cycles that have nothing to do with consumer buying patterns. Blending all of that into one number masks per-channel trends that matter enormously for purchasing decisions."
+      },
+      {
+        "type": "paragraph",
+        "content": "Returns are the challenge nobody talks about enough. E-commerce return rates average 20–30%, and each channel handles them differently. Without a system to route returned stock back into the right place, items sit in limbo, not available for sale anywhere, not generating revenue. Just existing."
+      },
+      {
+        "type": "paragraph",
+        "content": "And underneath all of it: fragmented data. Cin7 research found that 52% of businesses are still managing inventory in spreadsheets. That works at one or two channels. At three or more, the wheels fall off. Businesses running on disconnected systems experience inventory accuracy as low as 63%. Those using centralized software hit 95% and above."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "The fix"
+      },
+      {
+        "type": "paragraph",
+        "content": "The answer isn’t working harder or hiring more people to manage spreadsheets. It’s replacing fragmented tools with a connected inventory management system that gives you a single source of truth across every channel, sub-five-second sync, per-channel demand forecasting, and automated returns processing."
+      },
+      {
+        "type": "paragraph",
+        "content": "And critically, it’s the foundation your AI tools actually need to work. Agentic commerce only delivers on its promise when the data feeding it is accurate, centralized, and real-time. Get the infrastructure right, and AI becomes a genuine multiplier. Leave it fragmented, and you’re just automating the chaos."
+      },
+      {
+        "type": "paragraph",
+        "content": "Brands with synchronized multichannel inventory reduce oversell incidents by 85–95% and cut order processing time by 40–60%. Modern inventory systems improve stock visibility accuracy by 57% across distributed warehouse networks. Companies that invest in real-time inventory visibility also reduce stockouts by up to 30%."
+      },
+      {
+        "type": "paragraph",
+        "content": "The multichannel opportunity is real. But in 2026, the cost of getting the infrastructure wrong is higher than it’s ever been."
+      },
+      {
+        "type": "paragraph",
+        "content": "Want to learn more about tackling multichannel order and inventory management? Read The 2026 Product Seller’s Guide to Multichannel Order Management."
+      },
+      {
+        "type": "paragraph",
+        "content": "<a class=\"article-button\" target=\"_blank\" href=\"https://nora.org.au/wp-content/uploads/2026/06/2605_The2026Product-SellersGuidetoMultichannelOrderManagement_Ebook.pdf\">DOWNLOAD THE FREE GUIDE</a>"
+      }
+    ]
+  },

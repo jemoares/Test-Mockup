@@ -1,0 +1,1783 @@
+{
+  "article1": {
+    "title": "The control premium",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "The control premium",
+      "subtitle": "For years, retail rewarded those who moved fastest. Now it favours those who understand what they actually own.",
+      "byline": "By Jess Bright",
+      "meta": "10 JUNE 2026  •  4 MIN READ",
+      "heroImage": "industry-perspective.jpg"
+    },
+    "sections": [
+      {
+        "type": "image",
+        "src": "related-1.jpg",
+        "alt": "",
+        "parallaxRange": 24
+      },
+      {
+        "type": "paragraph",
+        "content": "cross the NORA ecosystem, a recalibration is underway &mdash; subtle in tone, but significant in consequence. Growth has not disappeared as an ambition, but it is no longer the organising principle. Control is.",
+        "dropCap": "A"
+      },
+      {
+        "type": "paragraph",
+        "content": "This shift is not ideological. It is being forced."
+      },
+      {
+        "type": "paragraph",
+        "content": "Customer acquisition costs have hardened. Demand signals are less predictable. And the infrastructure underpinning modern retail &mdash; from marketplaces to fulfilment networks &mdash; has become increasingly externalised. What once felt like leverage is now being re-examined as dependency."
+      },
+      {
+        "type": "paragraph",
+        "content": "In response, a new discipline is emerging inside executive teams &mdash; one that asks harder, more structural questions: Where does value actually accrue? Who owns the customer relationship? And what, if anything, is defensible?"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "marker": "marker-1.svg",
+        "content": "The Three Patterns"
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>First, data is being redefined as a control asset, not a by-product.</strong> The conversation has moved beyond collection toward cohesion. Without a unified view of the customer, the promise of AI, personalisation and retail media remains largely theoretical."
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>Second, operational simplicity is being treated as a strategic lever.</strong> Complexity, long masked as sophistication, is being unwound. The advantage is shifting toward those who can operate with clarity."
+      },
+      {
+        "type": "paragraph",
+        "content": "<strong>Third, margin is reclaiming its position as a design constraint.</strong> Not an outcome, but an input. Growth that cannot sustain margin is increasingly viewed as erosion in disguise."
+      },
+      {
+        "type": "paragraph",
+        "content": "Individually, these moves are pragmatic. Collectively, they signal a transition from expansion-led retail to structurally disciplined retail."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "marker": "marker-2.svg",
+        "content": "From the Boardroom"
+      },
+      {
+        "type": "paragraph",
+        "content": "What makes this shift notable is not the theory, but how consistently it is echoed by senior leaders navigating it in real time."
+      },
+      {
+        "type": "quote",
+        "content": "&ldquo;We scaled faster than we understood our own business. Now we&rsquo;re going back to rebuild the spine &mdash; data, systems, ownership. Growth exposed the gaps.&rdquo;",
+        "attribution": "ANZ Retail CEO"
+      },
+      {
+        "type": "quote",
+        "content": "&ldquo;Everyone talks about AI, but most organisations don&rsquo;t have decision-ready data. The issue isn&rsquo;t intelligence &mdash; it&rsquo;s coherence.&rdquo;",
+        "attribution": "Chief Data Officer, omnichannel retailer"
+      },
+      {
+        "type": "quote",
+        "content": "&ldquo;We used to treat margin as something we&rsquo;d fix later. Now it&rsquo;s the first filter.&rdquo;",
+        "attribution": "CFO, listed retail group"
+      },
+      {
+        "type": "quote",
+        "content": "&ldquo;We&rsquo;ve outsourced more of the customer journey than we realised. The question now is &mdash; what&rsquo;s left that&rsquo;s uniquely ours?&rdquo;",
+        "attribution": "eCommerce leader"
+      },
+      {
+        "type": "paragraph",
+        "content": "Some describe this as the emergence of the <em>agentic retailer</em> &mdash; where decision-making is faster, systems more autonomous, and leadership less about orchestration. But beneath the language sits a simpler truth: in a system increasingly shaped by platforms, partners and intelligent machines, control is becoming the premium. And those who cannot clearly define it are unlikely to capture it."
+      }
+    ]
+  },
+  "article2": {
+    "id": 6,
+    "title": "An analogue lens in a digital AI world",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "An analogue lens in a digital AI world",
+      "subtitle": "\"Technology challenges us to assert our human values, which means that first of all, we have to figure out what they are.\"<br/>— Sherry Turkle",
+      "byline": "By featured writer: Paul Greenberg, chair, NORA",
+      "meta": "10 JUNE 2026  •  4 MIN READ",
+      "heroImage": "Analogue-Lens.jpg",
+      "portrait": "paul_greenberg.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": " was at a high-tech show in Las Vegas a few years ago. The latest high-resolution technology was on dazzling display. Keynote speakers spoke passionately about the chip revolution and the promise of artificial intelligence.",
+        "dropCap": "I"
+      },
+      {
+        "type": "paragraph",
+        "content": "I should have been immersing myself completely in the innovation and the latest insights. I had been a regular attendee at these techfests for decades. Yet, for the first time, I found myself strangely disconnected from the buzz. Walking past a merchandise stand, I spotted a black T-shirt with the words “An Analogue Soul Caught in a Digital World” printed across the front."
+      },
+      {
+        "type": "paragraph",
+        "content": "I smiled and bought the shirt."
+      },
+      {
+        "type": "paragraph",
+        "content": "I entered the world of ecommerce as a digital immigrant in the mid-1990s, gathering momentum through the late '90s and the 2000s. Today, I still work in and around technology-led commerce—primarily as an investor, adviser and board member. Keeping pace with the relentless speed of technological change is becoming increasingly difficult. Is that simply a function of age? I don't think so."
+      },
+      {
+        "type": "paragraph",
+        "content": "Rather, I have consciously chosen to occupy a respectful contrarian position to the dominant narrative of a future driven almost entirely by technology—one where AI is said to be \"eating the world.\" As is often the case, these predictions are highly binary and tend to overlook the lessons I've learnt over the past three decades."
+      },
+      {
+        "type": "paragraph",
+        "content": "The biggest lesson?"
+      },
+      {
+        "type": "paragraph",
+        "content": "The game is almost always played—and won—down the middle of the field. Around 2014 or 2015, I was credited with coining the term phygital. In truth, I doubt I deserve the credit; I probably first heard it at one of the retail conferences in the US or Europe. But the truth behind the term resonated deeply with me then, and it still does today."
+      },
+      {
+        "type": "paragraph",
+        "content": "In a nutshell, phygital captured the idea that the best retailers would embrace both the physical and digital pathways to the customer. At a time when pure-play ecommerce was rapidly gaining traction, I, along with many industry peers, came to the conclusion that customers shop by brand, not by channel."
+      },
+      {
+        "type": "paragraph",
+        "content": "As an industry, we were in danger of developing what I called \"channel fever\" — an obsession with choosing a lane when our customers never did. They moved effortlessly between physical stores, websites and mobile devices, expecting us to do the same."
+      },
+      {
+        "type": "paragraph",
+        "content": "Eventually, we learnt. We adapted. Today, what was once called multi-channel retail has become simply… retail."
+      },
+      {
+        "type": "paragraph",
+        "content": "I sense that commerce is once again approaching one of these binary crossroads."
+      },
+      {
+        "type": "paragraph",
+        "content": "This time, the choice appears to be between artificial intelligence and human connection. I suspect that, once again, the winning strategy will lie somewhere in between."
+      },
+      {
+        "type": "paragraph",
+        "content": "The intersection between this extraordinary AI technology and a deeper understanding of customers will require as much traditional analogue thinking as it will a wholehearted embrace of AI tools. Success will come not from choosing one over the other, but from integrating both."
+      },
+      {
+        "type": "paragraph",
+        "content": "However, while the strategy may be non-binary, our professional expertise may not be."
+      },
+      {
+        "type": "paragraph",
+        "content": "As practitioners, I suspect we will increasingly need to choose where we develop true mastery. The depth of knowledge required to remain at the forefront of AI is immense. Equally, developing deep expertise in consumer psychology, anthropology, behavioural science and human motivation is a lifelong pursuit. It will become progressively harder to be world-class in both."
+      },
+      {
+        "type": "paragraph",
+        "content": "I've made my choice."
+      },
+      {
+        "type": "paragraph",
+        "content": "I'm doubling down on the human side of the commerce equation."
+      },
+      {
+        "type": "paragraph",
+        "content": "I proudly declare myself an analogue proponent."
+      },
+      {
+        "type": "paragraph",
+        "content": "That doesn’t mean becoming a technological Luddite. Far from it. I'll remain curious and continue experimenting with the remarkable technologies emerging around us and the countless opportunities they present."
+      },
+      {
+        "type": "paragraph",
+        "content": "But I make no apology for returning to my roots as a student of the humanities. I began my career in psychological services as a young organisational psychologist. It is with that lens that I increasingly see my career reaching its natural conclusion. In many ways, I've come full circle."
+      },
+      {
+        "type": "paragraph",
+        "content": "If a young person asked me today what they should study, my advice would be surprisingly simple. Study one of two things exceptionally well."
+      },
+      {
+        "type": "paragraph",
+        "content": "Either become deeply technical—immersing yourself in AI, machine learning and advanced computing—or immerse yourself in the humanities: psychology, sociology, anthropology, philosophy, history and ethics."
+      },
+      {
+        "type": "paragraph",
+        "content": "The future will belong to those who can either build intelligent machines or deeply understand the humans who use them."
+      },
+      {
+        "type": "paragraph",
+        "content": "In fact, I suspect the much-maligned Bachelor of Arts is quietly making a comeback. As AI commoditises technical capability, uniquely human capabilities—curiosity, judgement, empathy, creativity and wisdom—become more valuable, not less."
+      },
+      {
+        "type": "paragraph",
+        "content": "The new world won't be built by technology alone."
+      },
+      {
+        "type": "paragraph",
+        "content": "It will be built at the intersection of science and humanity."
+      },
+      {
+        "type": "paragraph",
+        "content": "Perhaps that T-shirt from Las Vegas was less a joke than a prediction. I'm proudly an analogue soul, happily living—and working—in a digital world.”"
+      },
+      {
+        "type": "paragraph",
+        "content": "I will leave the final word to Steve Jobs, whose philosophy perhaps captured this balance better than anyone: \"Technology is nothing. What's important is that you have faith in people, that they rebasically good and smart, and if you give them tools, they'll do wonderful things with them.\""
+      }
+    ]
+  },
+  "article3": {
+    "title": "National advantage: why Australia’s retail future won’t be built on cost",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "National advantage: why Australia’s retail future won’t be built on cost",
+      "subtitle": "For decades, Australian retail has been fighting a battle it can never truly win: cost. Competing on price alone is a race to the bottom, but thriving retailers are focusing on relevance.",
+      "byline": "By NORA team",
+      "meta": "10 JUNE 2026  •  4 MIN READ",
+      "videoWebm": "collage.webm",
+      "videoMp4": "collage.mp4",
+      "videoAlt": "Abstract collage video"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "or decades, Australian retail has been fighting a battle it can never truly win: cost. Against global marketplaces, endless supply chains and international scale, competing on price alone is a race to the bottom. Yet many of the retailers thriving today have stopped asking how to be cheaper and started asking how to be more relevant.",
+        "dropCap": "F"
+      },
+      {
+        "type": "paragraph",
+        "content": "National advantage in the next decade won’t come from lower labour costs or larger warehouses. It will come from trust, proximity, agility and community."
+      },
+      {
+        "type": "paragraph",
+        "content": "Australian retailers understand Australian customers better than anyone. They know local seasons, local values, local culture and local expectations. In an age where AI makes products infinitely discoverable and marketplaces make everything available, differentiation shifts from product access to customer intimacy."
+      },
+      {
+        "type": "paragraph",
+        "content": "The winners won’t be the biggest retailers. They’ll be the retailers that turn local insight into strategic advantage."
+      },
+      {
+        "type": "paragraph",
+        "content": "Perhaps the real question isn’t how Australia competes with the world."
+      },
+      {
+        "type": "paragraph",
+        "content": "It’s how the world competes with retailers who genuinely understand Australia."
+      }
+    ]
+  },
+  "article4": {
+  "title": "What AI in retail needs from the systems underneath it",
+  "hero": {
+    "category": "",
+    "headline": "What AI in retail needs from the systems underneath it",
+    "subtitle": "Australian retailers are investing heavily in AI. Far fewer have a record their systems can safely act on. A look at why this difference decides which retailers get useful work out of agents and which find agents acting on numbers that were already wrong.",
+    "byline": "In collaboration with Annexa",
+    "meta": "07 Nov 2026  •  4 MIN READ",
+    "heroImage": "Annexa-Hero-Image-Article.jpg"
+  },
+  "sections": [
+    {
+      "type": "paragraph",
+      "dropCap": "T",
+      "content": "he Australian retail sector has settled the question of whether to invest in AI, with 83.4% of retailers expecting AI and agentic commerce to change how shoppers buy. Investment is already directed at product content, onsite search, personalisation and customer service."
+    },
+    {
+      "type": "paragraph",
+      "content": "The problem is no longer access to AI models. <strong>What retailers lack is a record those models can be trusted to read.</strong>"
+    },
+    {
+      "type": "heading",
+      "content": "Why agentic AI changes the data problem"
+    },
+    {
+      "type": "paragraph",
+      "content": "Generative AI tolerates imperfect data. When the output is a product description or drafted customer email, a person reviews it before anyone else does."
+    },
+    {
+      "type": "paragraph",
+      "content": "Agentic work is different. Someone approving a replenishment order sees the quantity the agent has proposed, but not necessarily the stock position it read to get there. If that position came from systems that had not reconciled, the quantity can look reasonable and still be wrong. <strong>The error is in the input rather than the output, making it much harder to catch.</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Research shows the sector splitting along that line. 66% of retail respondents are using generative models and large language models, against 58% elsewhere. On agentic AI in production, the ordering reverses: 29% for retail against 32% across industries."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Retail is ahead on the technology that produces drafts and behind on the technology that produces actions.</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "The most instructive demonstration came from OpenAI. Instant Checkout, which let shoppers buy inside ChatGPT, launched in September 2025 and was withdrawn in March 2026, with Forrester attributing the retreat in part to product data that was frequently wrong on stock availability, delivery timing and shipping cost."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Even access to leading AI models could not overcome unreliable underlying product data.</strong>"
+    },
+    {
+      "type": "heading",
+      "content": "What does an agent need to act?"
+    },
+    {
+      "type": "paragraph",
+      "content": "An agent needs <strong>current data, consistent definitions, clear permissions and an audit trail.</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "This is where the underlying ERP becomes critical. But having an ERP is not the same as having consolidated onto one. If warehouse, inventory, order and finance systems still hold different versions of the truth, the reconciliation problem remains."
+    },
+    {
+      "type": "paragraph",
+      "content": "For retailers that have consolidated properly, the opportunities are fairly immediate."
+    },
+    {
+      "type": "heading",
+      "content": "Where agents can start doing the work"
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Replenishment is often the first candidate.</strong> An agent can watch what is selling, check stock on hand and what’s already on order, then propose a quantity for approval. But it only works if there is one reliable inventory number to read."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Order exceptions are another opportunity.</strong> If an item isn’t available at the warehouse due to ship it, an agent can determine whether to split the shipment, source it elsewhere or issue a refund. But that decision depends on live stock and order data sitting together."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Supplier invoice matching is even more mechanical.</strong> An agent can compare the invoice, purchase order and goods receipt, passing clean matches through to payment and escalating discrepancies. Where those records sit in separate systems, the reconciliation problem remains."
+    },
+    {
+      "type": "heading",
+      "content": "Governance can’t come afterwards"
+    },
+    {
+      "type": "paragraph",
+      "content": "Governance is where the sequencing usually goes wrong. Oxford Economics found that 49% of businesses report AI agents have already taken incorrect actions during pilots or deployment, while 43% have no human-in-the-loop process for agentic workflows at all."
+    },
+    {
+      "type": "paragraph",
+      "content": "An ERP arrives with many of those controls already in place, including role-based permissions, approval thresholds, delegation rules and audit logging. <strong>A control enforced by the system can be demonstrated to an auditor. An instruction sitting in an agent’s prompt cannot.</strong>"
+    },
+    {
+      "type": "heading",
+      "content": "The foundation is the strategy"
+    },
+    {
+      "type": "paragraph",
+      "content": "Most retailers still rate their data foundations as some way short of ready, with identity resolution and single customer view among the capabilities furthest behind."
+    },
+    {
+      "type": "paragraph",
+      "content": "But that gap also describes how few competitors have done the work, which is what makes doing it valuable. A retailer with one reliable record can put agents into replenishment and exception handling and take cost out of both. A retailer without one is buying tools that sit on top of the same reconciliation problem and paying people to bridge it."
+    },
+    {
+      "type": "paragraph",
+      "content": "Retail’s AI constraint has moved somewhere less exciting than the discussion suggests. The differentiator is not the model or the tooling, both of which are available to everyone on comparable terms."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>It is whether the systems underneath can hand work to each other without a person in the middle translating between them.</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>The foundation is not what a retailer builds before the strategy. It is the strategy.</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "If this is the question in front of your team, our Retail Outlook Report 2026 covers this in more detail, with industry data on what fragmented systems cost ANZ retailers, including the $2.6m leak most carry unmeasured, and how T2, Boody, Ultra Violette and Petdirect built a unified foundation."
+    },
+    {
+      "type": "heading",
+      "content": "About Annexa"
+    },
+    {
+      "type": "paragraph",
+      "content": "Annexa is a leading NetSuite solution provider and systems integration partner supporting mid-market and enterprise organisations across Australia and New Zealand. The company brings deep experience across finance, multi-entity operations, supply chain, eCommerce and advanced integration, delivering ERP solutions that improve visibility, lift performance and create scalable foundations for growth."
+    },
+    {
+      "type": "paragraph",
+      "content": "<a class=\"article-button\" target=\"_blank\" href=\"#\">Annexa Website</a>"
+    },
+    {
+      "type": "heading",
+      "content": "Sources"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Inside Digital &amp; eCommerce 2026, Arktic Fox, June 2026",
+        "The ROI of Gen AI and Agents 2026, Snowflake, June 2026",
+        "Value of AI Report 2026, Oxford Economics, July 2026",
+        "OpenAI Instant Checkout, reporting by CNBC with analysis from Forrester, March 2026"
+      ]
+    }
+  ]
+},
+  "article5": {
+    "title": "Powerful partnerships: the end of the hero retailer",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "Powerful partnerships:<br /><span>The end of the hero retailer</span>",
+      "subtitle": "A new era of super compliance is fast approaching.",
+      "byline": "By NORA team",
+      "meta": "18 JULY 2026  •  3 MIN READ",
+      "heroImage": "Powerful-Partnerships.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "etail has long celebrated the myth of the hero retailer—the organisation that succeeds through its own brilliance, innovation and execution.",
+        "dropCap": "R"
+      },
+      {
+        "type": "paragraph",
+        "content": "That era is ending."
+      },
+      {
+        "type": "paragraph",
+        "content": "The most significant breakthroughs in retail today are increasingly occurring between organisations, not within them. Retailers partnering with technology companies. Competitors collaborating on sustainability. Brands sharing data. Industry networks solving common challenges together."
+      },
+      {
+        "type": "paragraph",
+        "content": "The complexity facing retail has become too great for any single organisation to solve alone."
+      },
+      {
+        "type": "paragraph",
+        "content": "Yet many businesses still approach partnerships transactionally: procurement-led, short-term and focused on immediate outcomes."
+      },
+      {
+        "type": "paragraph",
+        "content": "The strongest partnerships are different. They create shared intelligence, shared opportunity and shared advantage."
+      },
+      {
+        "type": "paragraph",
+        "content": "The question for leaders is no longer, “Who are our competitors?”"
+      },
+      {
+        "type": "paragraph",
+        "content": "It’s becoming, “Who are our collaborators?”"
+      },
+      {
+        "type": "paragraph",
+        "content": "In a connected economy, the future belongs to ecosystems, not empires."
+      }
+    ]
+  },
+  "article6": {
+    "title": "Next Gen purpose: why younger consumers are redefining success",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "Next Gen purpose: why younger consumers are redefining success",
+      "subtitle": "For years, purpose was treated as a marketing exercise. A campaign. A statement. A sustainability report.",
+      "byline": "By NORA team",
+      "meta": "20 JULY 2024  •  4 MIN READ",
+      "videoWebm": "collage.webm",
+      "videoMp4": "collage.mp4",
+      "videoAlt": "Abstract collage video"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "he next generation sees it differently. For younger consumers and employees, purpose isn’t what a company says. It’s what a company does when nobody is looking.",
+        "dropCap": "T"
+      },
+      {
+        "type": "paragraph",
+        "content": "They are increasingly questioning business models built on endless consumption, disposable products and short-term thinking. They expect transparency, accountability and impact—not because it’s fashionable, but because they see these issues as fundamental to the future they will inherit."
+      },
+      {
+        "type": "paragraph",
+        "content": "This creates an uncomfortable challenge for retail."
+      },
+      {
+        "type": "paragraph",
+        "content": "Can an industry historically designed to drive more consumption evolve into one that creates more value with less waste?"
+      },
+      {
+        "type": "paragraph",
+        "content": "The organisations that answer this question convincingly will attract customers, talent and trust."
+      },
+      {
+        "type": "paragraph",
+        "content": "The ones that don’t may discover that purpose is no longer optional."
+      },
+      {
+        "type": "paragraph",
+        "content": "It’s becoming a licence to operate."
+      }
+    ]
+  },
+  "article7": {
+    "title": "ANZ retail media state of play 2026",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "ANZ retail media state of play 2026",
+      "subtitle": "For years, retail rewarded those who moved fastest. Now it favours those who understand what they actually own.",
+      "byline": "In collaboration with Broadsign and Criteo",
+      "meta": "10 JUNE 2026  •  2 MIN READ",
+      "heroImage": "retail_media.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "etail media has quickly become one of the most important growth conversations in retail, but the operational reality often looks very different from the market narrative.",
+        "dropCap": "R"
+      },
+      {
+        "type": "paragraph",
+        "content": "Built from the perspectives of more than 60 retail brands and industry practitioners across Australia and New Zealand, this report provides a snapshot of where the industry stands today."
+      },
+      {
+        "type": "paragraph",
+        "content": "Inside, you’ll find insights on measurement, ownership, supplier demand, capability, agency integration and the factors shaping the next phase of retail media growth."
+      },
+      {
+        "type": "paragraph",
+        "content": "<a class=\"article-button\" target=\"_blank\" href=\"https://forms.monday.com/forms/d849997391104888df4afa0b54590fee?r=apse2\">DOWNLOAD REPORT</a>"
+      }
+    ]
+  },
+  
+"article8": {
+  "title": "Behind the scenes at THE ICONIC",
+  "hero": {
+    "headline": "Behind the scenes at THE ICONIC",
+    "subtitle": "In late October, NORA took around 30 retailers through THE ICONIC’s Yennora fulfilment centre. Here’s what we saw on the floor, and why the way the tour was run made it different.",
+    "meta": "15 Nov 2026 • 3 min read",
+    "heroImage": "bts-the-iconic.webp"
+  },
+  "sections": [
+    {
+      "type": "heading",
+      "content": "Under the hood at THE ICONIC"
+    },
+    {
+      "type": "paragraph",
+      "dropCap": "I",
+      "content": "n July, at our first Operations Leaders Velocity Summit, our industry hosts Mick Bunt and Kieran Boyce put a simple question to around 120 Ops leaders in the room. If you could get under the hood of one retailer and see how they fulfil, who would it be?"
+    },
+    {
+      "type": "paragraph",
+      "content": "The answer was overwhelming, in the room and again in the survey afterwards: THE ICONIC."
+    },
+    {
+      "type": "paragraph",
+      "content": "It’s not hard to see why. THE ICONIC keeps raising the bar on delivery, most recently with DoorDash delivery for customers in metro Sydney, and early signs are strong."
+    },
+    {
+      "type": "paragraph",
+      "content": "In late October, we took a group of retailers through their Yennora fulfilment centre."
+    },
+    {
+      "type": "paragraph",
+      "content": "The best ideas for this series come from the people in it. Ops leaders want to see how others work at scale, and a few hours on someone else’s floor often answers questions a summit session can’t."
+    },
+    {
+      "type": "heading",
+      "content": "A tour where no one was stuck at the back"
+    },
+    {
+      "type": "paragraph",
+      "content": "We’ve run some great tours this year, at Shiperoo, The Winning Group and Culture Kings. This one was different, and the difference was in how Sue Wood, THE ICONIC’s Director of Operations, set it up."
+    },
+    {
+      "type": "paragraph",
+      "content": "Around 30 retailers joined us, from pure play ecommerce to store-based businesses. Rather than one big group shuffling between stations, Sue brought her team in to lead groups of four or five. Each tour ran for about an hour and a half."
+    },
+    {
+      "type": "paragraph",
+      "content": "No one was stuck at the back. Everyone could see, and everyone could ask the questions they actually came with."
+    },
+    {
+      "type": "paragraph",
+      "content": "That format tells you a lot about a leadership team. Sue trusted her people to walk other retailers through their own operation and share what they know. The knowledge doesn’t sit with one or two people at COO or director level. It’s spread across the team, and they’re proud to share it."
+    },
+    {
+      "type": "heading",
+      "content": "What you could see on the floor"
+    },
+    {
+      "type": "paragraph",
+      "content": "I was in Sue’s group. Sue knew the names of everyone on the floor, and there were a lot of them. Whatever we asked, she had the answer."
+    },
+    {
+      "type": "paragraph",
+      "content": "The site was busy but calm. People knew what they were working on, where the operation is at and where it’s heading. You could see how the teams are run and how they’re incentivised, and it showed in the work."
+    },
+    {
+      "type": "paragraph",
+      "content": "Mick summed it up well afterwards. You can read a culture by how the floor reacts when senior leaders walk through. Do people scramble to look busy, or keep doing their job and say g’day? At THE ICONIC it was the latter. Sue runs the operation in a clear order: safety, service, then cost. People first, and the results follow."
+    },
+    {
+      "type": "heading",
+      "content": "A sense check before peak"
+    },
+    {
+      "type": "paragraph",
+      "content": "After the tour, THE ICONIC looked after us with morning tea and we sat down together for an open, peer-led conversation. Mick and Kieran did a great job driving the conversation."
+    },
+    {
+      "type": "paragraph",
+      "content": "Retailers brought their real challenges: managing teams through volume, incentives, returns, what’s working and what isn’t. Sue and her team answered everything openly, including what they’re still working on."
+    },
+    {
+      "type": "paragraph",
+      "content": "With peak season about to hit, the timing was right. It was a chance to sense check plans against a business that handles serious fulfillment volume every day, and to hear from peers facing the same pressure."
+    },
+    {
+      "type": "heading",
+      "content": "Thank you"
+    },
+    {
+      "type": "paragraph",
+      "content": "THE ICONIC has supported NORA across many of our events, and plenty of their leaders were in the room at the Velocity Summit. It was a pleasure to take that relationship onto their floor."
+    },
+    {
+      "type": "paragraph",
+      "content": "Thank you to Rostin and Sue and to all of the team, who were brilliant. They gave us half a day, a lot of honest answers and a genuinely warm welcome."
+    },
+    {
+      "type": "paragraph",
+      "content": "Thank you to Mick and Kieran for their ongoing commitment to this community, and to our series partner <a href=\"https://www.starshipit.com/\" style=\"color:inherit;text-decoration:underline\">Starshipit</a> and supporting partner <a href=\"https://www.descartes.com/\" style=\"color:inherit;text-decoration:underline\">Descartes</a>, who make programs like this possible."
+    },
+    {
+      "type": "paragraph",
+      "content": "And thank you to every retailer who turned up, asked questions and gave their time. That’s what makes this community work."
+    },
+    {
+      "type": "paragraph",
+      "content": "Where should we go next? We’d love to hear from you: <a href=\"mailto:gareth@nora.org.au\" style=\"color:inherit;text-decoration:underline\">gareth@nora.org.au</a>"
+    }
+  ]
+},
+
+  "article9": {
+    "title": "The complexity economy",
+    "hero": {
+      "headline": "The complexity economy",
+      "subtitle": "The retailers quietly building competitive advantage with Feedonomics ",
+      "byline": "In collaboration with Feedonomics",
+      "meta": "10 JUNE 2026  •  2 MIN READ",
+      "heroImage": "Complexity Economy.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": " or much of the past two decades, retail strategy has been relatively straightforward: reach more customers, through more channels, with greater convenience. And to a large extent this has worked for many of us. ",
+        "dropCap": "F"
+      },
+      {
+        "type": "paragraph",
+        "content": "Marketplaces opened new audiences. Social commerce shortened the path to purchase. Click & collect reshaped fulfilment. Retail media created new revenue streams. International expansion became more accessible than ever."
+      },
+      {
+        "type": "paragraph",
+        "content": "The industry became exceptionally good at creating new opportunities."
+      },
+      {
+        "type": "paragraph",
+        "content": "Less attention was paid to what those opportunities demanded in return."
+      },
+      {
+        "type": "paragraph",
+        "content": "Every additional channel brought another set of merchandising rules. Another catalogue to maintain. Another taxonomy. Another image specification. Another pricing structure. None of these requirements were particularly difficult on their own. Together, they have created an operating environment that looks fundamentally different from the one retailers were designed to manage."
+      },
+      {
+        "type": "paragraph",
+        "content": "This is one of the more interesting shifts occurring in retail."
+      },
+      {
+        "type": "paragraph",
+        "content": "The conversation around productivity still tends to focus on labour, supply chains and automation. Yet one of the fastest-growing sources of operational cost is complexity itself ...not complexity imposed by regulation or macroeconomic conditions, but complexity created as businesses pursue growth."
+      },
+      {
+        "type": "paragraph",
+        "content": "The irony is that many of retail's best strategic decisions have also become its greatest operational challenge."
+      },
+      {
+        "type": "paragraph",
+        "content": "Selling through more channels is sensible. Expanding product ranges is sensible. Localising assortments is again sensible. The question is no longer whether retailers should pursue these opportunities, but how they prevent each one from introducing another layer of operational friction."
+      },
+      {
+        "type": "paragraph",
+        "content": "<i>As retailers prepare for Black Friday and Cyber Monday, the cost of complexity becomes harder to ignore. Peak trading doesn't create operational weaknesses; it exposes them. The systems and processes that support product data across every channel are suddenly placed under greater pressure, making preparation as much about operational readiness as inventory and fulfilment.</i>"
+      },
+      {
+        "type": "paragraph",
+        "content": "This is why disciplines that once sat quietly inside ecommerce teams are moving into the centre of retail operations. Product information management is one example. What was once regarded as administrative work has become part of the infrastructure required to support modern commerce. As retailers such as APG & Co. and City Beach have demonstrated in their partnership with Feedonomics - improving the consistency and governance of product information doesn't simply tidy up data, it reduces manual effort, improves channel performance and allows organisations to scale without proportionally increasing operational overhead. <i>Feedonomics customers report spending up to 43% less time managing product feeds, illustrating how simplifying complexity can create operational capacity rather than simply reducing effort.</i>"
+      },
+      {
+        "type": "paragraph",
+        "content": "The invitation for retailers is to consider the complexity of their product information and to seize the opportunities to alleviate this with intelligence. "
+      },
+      {
+        "type": "paragraph",
+        "content": "Retail's competitive advantage is becoming less about adding complexity than mastering it. As an industry we must discern how we are contributing to our internal complexity economy and be open to transformative ways to simplify. "
+      },
+      {
+        "type": "paragraph",
+        "content": "If this article resonated, request a free feed audit from Feedonomics to see where your product data could be simplified, strengthened and better prepared for today's retail landscape."
+      },
+      {
+        "type": "paragraph",
+        "content": "<a class=\"article-button\" target=\"_blank\" href=\"https://feedonomics.com/request-feed-audit/?utm_medium=paid-search&utm_source=COMM&utm_campaign=ap_all_acq_FY26_NORA-Preparing-For-Peak&utm_content=NORA-Preparing-For-Peak&utm_id=701Pi000082rISXIA2\">FREE AUDIT</a>"
+      }
+    ]
+  },
+  "article10": {
+  "title": "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
+  "hero": {
+    "category": "",
+    "headline": "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
+    "subtitle": "Why the right solution partner matters as much as the platform",
+    "byline": "In collaboration with Fujitsu",
+    "meta": "11 Nov 2026 • Video podcast",
+    "heroImage": "Fujitsu-Hero-Image-Article.jpg"
+  },
+  "sections": [
+    {
+      "type": "paragraph",
+      "content": "In this episode of The NORA Edit, we sit down with Tim Sheedy, Founder and Principal Analyst at Singularity Research, and Mahesh Krishnan, Chief Technology Officer at Fujitsu Oceania, to discuss how Australian retailers can modernise their point of sale systems without risking downtime or peak trading disruptions. Discover what separates successful rollouts from costly mistakes and learn the critical questions to ask before selecting your tech partner."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "Podcast overview"
+    },
+    {
+      "type": "video",
+      "src": "https://player.vimeo.com/video/1247818140",
+      "title": "The Next Generation of POS – Fujitsu podcast"
+    },
+    {
+      "type": "paragraph",
+      "content": "Is your legacy point of sale system quietly eating into your margins? Between workarounds on the shop floor, inflexible promotions and online returns clogging up the counter, the hidden costs of holding onto an outdated system add up fast."
+    },
+    {
+      "type": "paragraph",
+      "content": "In this session, Tim and Mahesh break down how to time your upgrade right and roll out across your store network without losing a day of trading. Drawing on decades of industry experience and some of the world’s largest POS deployments, they cut through the tech jargon and focus on what matters to retailers."
+    },
+    {
+      "type": "paragraph",
+      "content": "We’ll explore why choosing the right delivery partner is just as critical as the software platform itself. The real test is evidence, and the best evidence comes from peers. Tim’s recent research into how Australian technology leaders buy found that peer recommendation is still the number one reason one solution partner is chosen over another. He shares how to vet solution partners by talking directly to retailers who have deployed the exact same software at scale, and the one question that tells you most: how did your partner respond when something went wrong?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Mahesh then draws on his experience as a CTO and his global perspective on large-scale POS rollouts. He shares what separates the programs that land smoothly from those that struggle, and the practical steps that keep stores trading while the change happens."
+    },
+    {
+      "type": "paragraph",
+      "content": "The conversation also takes a grounded look at the next three to five years. Moving past the AI hype, the focus is on connected stores where checkout, cash handling and loss prevention work as one, simpler integrations in place of years of layered omnichannel builds, and a platform that can keep adapting without ripping out the core."
+    },
+    {
+      "type": "paragraph",
+      "content": "Both guests agree on the first step, and it isn’t a technology purchase. Listen to the end to hear why clean data, and a shopper reading an ingredients list, sit at the heart of what comes next."
+    },
+    {
+      "type": "paragraph",
+      "content": "Whether a point of sale overhaul is on your roadmap or you are just starting to explore your options, this conversation provides guidance on what to ask, what to test and what good looks like on the shop floor."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Listen now: Beyond the Checkout: What Australian Retailers Need from the Next Generation of POS Technology</strong>"
+    }
+  ]
+},
+ 
+"article11": {
+  "title": "Velocity Summit 2026 Wrap-up",
+  "hero": {
+    "category": "",
+    "headline": "Velocity Summit 2026 Wrap-up",
+    "subtitle": "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered for the first Operations Leaders’ Velocity Summit. Kieran Boyce shares what stuck with him, and why honest conversations about what went wrong are worth more than the highlight reel.",
+    "portrait": "kieran-boyce.png",
+    "byline": "By Kieran Boyce",
+    "meta": "13 Nov 2026 • 6 min read",
+    "heroImage": "Ops-Summit-Hero-Image-Article.jpg"
+  },
+  "sections": [
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "What LinkedIn doesn’t show you"
+    },
+    {
+      "type": "paragraph",
+      "dropCap": "S",
+      "content": "croll this platform on any given day and you’ll see all of our best days. Promotions, keynotes, panel wins, the photo with the good lighting. LinkedIn is our highlight reel. What you won’t see much of: the almighty screw-up, the delivery promise that failed a customer, the 2am anxiety-ridden replay in your head of the meeting that didn’t go to plan."
+    },
+    {
+      "type": "paragraph",
+      "content": "Operations is at the front-line of most businesses, that means they’re deep in the chaos ruthlessly prioritising in real time. The brutal fact is we don’t always get it right. You’d be hard pressed to find someone writing a long post, with all the beautiful emojis and tags about the day they got it wrong."
+    },
+    {
+      "type": "paragraph",
+      "content": "Authenticity and vulnerability in operations leadership come from exactly those moments, the ones we don’t post about. We call it experience once we’ve survived it; it’s what you get immediately after you needed it... That’s the premise the Velocity stream was built on over the past 12 months: build a forum where that experience gets shared honestly, instead of curated into another highlight reel. Don’t pull up the ladder behind us as leaders. Set the stage for the future leaders and operators by giving them something useful."
+    },
+    {
+      "type": "paragraph",
+      "content": "At Velocity 2026 that premise got a proper run. More than <strong>120</strong> retail operations, supply chain, fulfilment and last-mile leaders filled a room at The Grounds of Alexandria for the first Operations Leaders’ Velocity Summit, run by the NORA ~ National Online Retailers Association. Mick Bunt and I joined forces to host. It was the culmination of a year of warehouse tours, roundtables and conversations with the people keeping retail moving, including visits behind the scenes at Shiperoo, Winning Group and Culture Kings. Those tours shaped a lot of what made it into the room on the day."
+    },
+    {
+      "type": "paragraph",
+      "content": "Here’s what stuck with me."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "Efficiency is dead, intelligence wins"
+    },
+    {
+      "type": "paragraph",
+      "content": "I sat on a panel with Toni Baston Woolworths MarketPlus (Gee I miss working with you Toni, when Mick & I discussed the speaker list you were one of the first names that came up as authenticity personified!) and Shane Alexander (King Living), hosted by Mick (3PO), under the banner of “Efficiency is Dead. Intelligence Wins.”"
+    },
+    {
+      "type": "image",
+      "layout": "inline",
+      "src": "kieran-toni-shane-mick.png",
+      "alt": "Kieran, Toni, Shane and Mick seated on stools on stage during the panel",
+      "caption": "Kieran, Toni, Shane & Mick (Left to Right)."
+    },
+    {
+      "type": "paragraph",
+      "content": "Shane made a point that’s stayed with me. When you’re delivering high-end furniture, shaving two minutes off a delivery window is the wrong metric. His drivers need more time in the home, not less. Customer delight and margin protection in heavy goods come from intelligence applied to the last mile, not from stopwatch thinking. Experience matters."
+    },
+    {
+      "type": "paragraph",
+      "content": "I put a version of that same tension to the room from a experiential retail angle. Traditional supply chain thinking wants to standardise everything it touches. Standardisation of service eventually reaches a point where it strips out the touch customers are actually paying for (and expect). The job is finding that point and using data to protect it without blowing out cost."
+    },
+    {
+      "type": "paragraph",
+      "content": "The bigger point underneath all of it: digital and supply chain used to sit in separate silos. They don’t anymore, and any leader still running them that way is maintaining a obsolete structure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "Operations doesn’t stop at the warehouse door"
+    },
+    {
+      "type": "paragraph",
+      "content": "Hakan Steele from <a href=\"https://www.starshipit.com\">Starshipit</a> hosted a panel with three operators who’ve each scaled fast and have the scars to show for it: Joel Randal (Culture Kings), Jodie Tarasek (MESHKI) and Ty Cooper (Muscle Republic)."
+    },
+    {
+      "type": "paragraph",
+      "content": "Ty’s point on headcount resonated most with anyone who’s operated a warehouse through a peak. Doubling your warehouse headcount doesn’t double your productivity. Without clear process, experienced leads and structured onboarding, more people just create more bottlenecks. Joel’s contribution was about where operational risk actually sits: not always inside the warehouse, but in the gap between marketing, ops, CX and tech when a campaign launches before all four have planned it together. Get that wrong and you’re looking at oversold inventory and a customer experience that takes weeks to recover - and potentially thousands of customers who will never shop with you again."
+    },
+    {
+      "type": "paragraph",
+      "content": "Jodie’s framing was great: Customers don’t separate your marketing, your warehouse, your customer service or your carriers. They remember whether the experience they were promised got delivered. Abi Bennett from <a href=\"https://www.starshipit.com\">Starshipit</a> put it plainly in a note she sent after the session:"
+    },
+    {
+      "type": "quote",
+      "content": "Operations is no longer simply supporting the brand experience. Increasingly, it is the brand experience.",
+      "attribution": "Abi Bennett, <a href=\"https://www.starshipit.com\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:inherit;text-decoration:underline\">Starshipit</a>"
+    },
+    {
+      "type": "paragraph",
+      "content": "She left the room asking two questions worth sitting with. (1) Could your next campaign overwhelm your operation? and; (2) Are you measuring what customers actually notice, rather than what your internal efficiency reports say?"
+    },
+    {
+      "type": "image",
+      "layout": "inline",
+      "src": "hakan-ty-jodie-joel.png",
+      "alt": "Hakan, Ty, Jodie and Joel on stage in front of a screen showing their names",
+      "caption": "Hakan, Ty, Jodie & Joel (Left to Right)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "The end of business as usual"
+    },
+    {
+      "type": "paragraph",
+      "content": "Guy Nappa, COO of Oz Hair and Beauty, sat down with Mick for a fireside on what he called the end of business as usual. Guy’s business has been on a fierce growth curve for years. The conversation covered what breaks under that kind of growth: the role he used to do versus the role he does now, priorities that shift every six months whether you’re ready or not, and the mindset required to keep making decisive calls without waiting for things to settle."
+    },
+    {
+      "type": "paragraph",
+      "content": "The advice that stuck: navigating rapid growth means constantly deciding what to stop doing. There’s never going to be more time to find."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "Diversity of decisions, not diversity of headcount"
+    },
+    {
+      "type": "paragraph",
+      "content": "Mina Shi (LIONESS) closed out the afternoon on diversity in supply chain, and the framing was sharper than the topic usually gets. Their point: diversity of background and perspective is what produces better decisions, better teams and better businesses. That’s the measure worth tracking."
+    },
+    {
+      "type": "paragraph",
+      "content": "It’s a common thematic that operations leaders often tread their path unconventially. The “10-years-on-the-floor” is the exception pathway for modern leaders. This was it’s own useful reminder that the pipeline for operations talent is wider than the industry usually treats it, and diversity of thought can be unlocked by embracing it."
+    },
+    {
+      "type": "paragraph",
+      "content": "What I also took in this session was leadership from the back of the room. Brian Nguyen showing strong support. This is one of those unsung moments where a C-Suite executive take the time to support one of their team. It’s meaningful. People remember how you make them feel."
+    },
+    {
+      "type": "image",
+      "layout": "inline",
+      "src": "abi-and-mina.png",
+      "alt": "Abi and Mina on stage in front of large arched windows",
+      "caption": "Abi & Mina (Left to Right)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "Where to next?"
+    },
+    {
+      "type": "paragraph",
+      "content": "We built this stream because the tours, roundtables and now the summit kept surfacing the same thing: the operators willing to talk honestly about what went wrong learn faster than the ones only willing to talk about what went right. That’s an uncomfortable thing to build a public forum around, but it’s the version we believe is worth building."
+    },
+    {
+      "type": "paragraph",
+      "content": "The next generation of operations leaders is watching how the current one talks about failure. If all we show them is the highlight reel, we’re teaching them to hide the parts of the job that actually build judgement, experience and ultimately - value."
+    },
+    {
+      "type": "paragraph",
+      "content": "So here’s the question I’m sitting with after the day: if you stripped the highlight reel out of your own LinkedIn history, what would be left?"
+    }
+  ]
+}, 
+"article12": {
+  "title": "Can AI make recruitment more human? Wingstop Australia thinks so.",
+  "hero": {
+    "category": "",
+    "headline": "Can AI make recruitment more human? Wingstop Australia thinks so.",
+    "heroHeight": 900,
+    "subtitle": "As retailers turn to AI to tackle recruitment pressures, Wingstop Australia is showing how automation can speed up hiring without losing the personal nuance.",
+    "byline": "With Fleur Brennet, Workday and Jono Spragg, Wingstop Australia",
+    "collabBrand": "In collaboration with Workday",
+    "meta": "02 Nov 2026 • 3 min read",
+    "heroImage": "hero-kitchen.jpg",
+    "videoAlt": "Staff working in a quick-service restaurant kitchen behind a stainless-steel counter",
+    "speakers": [
+      {
+        "name": "Fleur Brennet",
+        "role": "Customer Success Manager, Workday",
+        "image": "fleur-brennet.jpg"
+      },
+      {
+        "name": "Jono Spragg",
+        "role": "Operations Director, Wingstop Australia",
+        "image": "jono-spragg.jpg"
+      }
+    ],
+    "webinarButton": {
+      "label": "Watch the on-demand webinar",
+      "url": "#"
+    }
+  },
+  "sections": [
+    {
+      "type": "paragraph",
+      "dropCap": "G",
+      "content": "reater recruitment efficiency presents a dilemma. For candidates, automated recruitment can feel impersonal, reducing what should be a human interaction to a series of questions, automated responses and algorithmic decisions."
+    },
+    {
+      "type": "paragraph",
+      "content": "The challenge for retailers is not simply how much of the hiring process they can automate, but also how to make the experience better for the people going through it."
+    },
+    {
+      "type": "paragraph",
+      "content": "It’s a question becoming more pressing as the industry faces growing recruitment demands. Retail trade vacancies rose 24.5 per cent in the three months to August 2026, the largest percentage increase of any industry, according to the Australian Bureau of Statistics."
+    },
+    {
+      "type": "paragraph",
+      "content": "For Wingstop Australia, which opened its first store in 2025 and now has six, with plans for 110, the challenge was particularly acute."
+    },
+    {
+      "type": "paragraph",
+      "content": "Each new store requires between 40 and 80 crew members. With a new opening planned approximately every six weeks, the business needed a recruitment process that could keep pace with its expansion without overwhelming store managers or alienating potential employees."
+    },
+    {
+      "type": "paragraph",
+      "content": "Jono Spragg, Wingstop Australia’s Director of Operations, was initially sceptical about using AI in recruitment. Eighteen months ago, he says, he would have “switched off” at the suggestion of a bot managing the hiring conversation."
+    },
+    {
+      "type": "paragraph",
+      "content": "But years working in hospitality had also shown him how inefficient traditional recruitment could be."
+    },
+    {
+      "type": "paragraph",
+      "content": "Managers would post advertisements, work through hundreds of résumés and often rely on personal familiarity when deciding whom to interview. Arranging a single interview could take two weeks."
+    },
+    {
+      "type": "paragraph",
+      "content": "At Wingstop’s planned rate of expansion, that approach would quickly become a bottleneck."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "Enter Ranchy"
+    },
+    {
+      "type": "paragraph",
+      "content": "The business turned to Workday Paradox, a conversational AI recruitment assistant, implementing the technology before its first Australian store opened."
+    },
+    {
+      "type": "paragraph",
+      "content": "Rather than deploying a generic recruitment bot, Wingstop customised the experience around its own brand, creating “Ranchy”, a talking tub of ranch dressing that guides applicants through the hiring process."
+    },
+    {
+      "type": "paragraph",
+      "content": "The company deliberately made it clear that candidates were interacting with a bot, while tailoring its language to feel conversational and approachable."
+    },
+    {
+      "type": "paragraph",
+      "content": "Spragg established a guiding principle: make the initial conversation “as automated as possible”, with “human feeling language on top of it”."
+    },
+    {
+      "type": "paragraph",
+      "content": "The approach was not about removing people from recruitment. It was about removing the repetitive administrative tasks that prevented managers from spending time with candidates."
+    },
+    {
+      "type": "paragraph",
+      "content": "At Wingstop’s King’s Cross location, the business received approximately 800 applications for 50 positions, completing the process from application to onboarding in just five days."
+    },
+    {
+      "type": "paragraph",
+      "content": "At Parramatta Square, 1,200 applications arrived in ten days."
+    },
+    {
+      "type": "paragraph",
+      "content": "But perhaps the most interesting aspect of Wingstop’s approach is what happens after a candidate has been hired."
+    },
+    {
+      "type": "paragraph",
+      "content": "During onboarding, Ranchy asks each new employee for their uniform size and favourite drink."
+    },
+    {
+      "type": "paragraph",
+      "content": "When they arrive for their first shift, their correctly sized uniform is ready and their preferred drink is waiting. The team then sits down with the new starter over that drink to begin their introduction to the business."
+    },
+    {
+      "type": "paragraph",
+      "content": "It’s a small gesture, but one that illustrates how automation can support more thoughtful human interactions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "The bigger question for retailers"
+    },
+    {
+      "type": "paragraph",
+      "content": "Wingstop’s experience suggests the opportunity is more nuanced than simply replacing manual recruitment with AI."
+    },
+    {
+      "type": "paragraph",
+      "content": "The real value lies in identifying where automation can remove delays, reduce inconsistency and improve the experience for candidates, while preserving the human interactions that shape their first impression of an employer."
+    },
+    {
+      "type": "paragraph",
+      "content": "For retailers, the question may no longer be whether AI belongs in recruitment, but how to ensure the process still feels human."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "content": "Watch the full conversation"
+    },
+    {
+      "type": "paragraph",
+      "content": "How did Wingstop implement Ranchy, what has it learned along the way, and what should other retailers consider before introducing AI into their recruitment process?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Watch the on-demand conversation with Jono Spragg and Workday to explore the practical decisions, challenges and lessons behind Wingstop’s approach."
+    },
+    {
+      "type": "paragraph",
+      "content": "<a class=\"article-button\" target=\"_blank\" href=\"#\">Watch the on-demand webinar</a>"
+    }
+  ]
+},
+  "article13": {
+    "id": 9,
+    "title": "Global recommerce giants vying for dominance in Aussie market",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "Global recommerce giants vying for dominance in Aussie market",
+      "subtitle": "The rise of tech-savvy recommerce platforms with gamification built in is forcing retailers to redefine resale strategies of their own.",
+      "byline": "By Nina Hendy, lead journalist, NORA edit",
+      "heroImage": "Recommerce-Article.jpg",
+      "videoWebm": "collage.webm",
+      "videoMp4": "collage.mp4",
+      "videoAlt": "People browsing second-hand clothes at a market stall",
+      "portrait": "nina_hendy.jpg"
+    },
+    "sections": [
+      {
+        "type": "image",
+        "src": "vinted_hq.jpeg",
+        "alt": "",
+        "parallaxRange": 24
+      },
+      {
+        "type": "paragraph",
+        "content": "ustralia has been unable to crack the recommerce market in a substantial way and is now witnessing a new wave of globally dominant players enter the race.",
+        "dropCap": "A"
+      },
+      {
+        "type": "paragraph",
+        "content": "Global recommerce giants Vinted and Whatnot have locked horns on Australian soil, both vying for top spot in the race to win the hearts and open the wallets of local consumers."
+      },
+      {
+        "type": "paragraph",
+        "content": "Announcing their decision to tackle the Australian market after a number of local platforms have failed to gain traction with consumers over recent years, the duo each believes they have what it takes to muscle in on stalwarts Facebook Marketplace, Gumtree and eBay as consumers trade over-consumption for cash."
+      },
+      {
+        "type": "paragraph",
+        "content": "Research from Afterpay found that the boundaries of commerce are blurring. Consumers, overwhelmed with 'stuff', are looking to the brands that facilitate experiences beyond the point of transaction and are seeking personalised, immersive and intimate moments."
+      },
+      {
+        "type": "paragraph",
+        "content": "This has led to phenomenal growth forecasts for the recommerce market, which is expected to be worth $US6.75 billion by 2029 in Australia alone as nearly half (46 per cent) of consumers turn to used items each year. The figure, from an Australia Post survey, that reveals that consumers are keen to buy books, music, homewares, collectibles, electronics and fashion second hand, among other items."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Consumer rethink"
+      },
+      {
+        "type": "paragraph",
+        "content": "Consumers have been hungry for new ways to buy and sell their stuff for years, but a number of homegrown recommerce platforms have failed to quell their appetite."
+      },
+      {
+        "type": "paragraph",
+        "content": "Circonomy focused on repairing, repurposing and reselling dormant or end of use goods, but closed in late 2024, blaming a severe retail downturn and financial unsustainability on its decision to close."
+      },
+      {
+        "type": "paragraph",
+        "content": "Central rental marketplace ReleaseIt is currently in limbo, with a message on its website promising that it is making site improvements."
+      },
+      {
+        "type": "paragraph",
+        "content": "Dress hire platform Designerex went into administration last year but since the platform was plucked out of administration by the Sarai family based in Queensland, but it's impossible to know whether it's still a hit with consumers."
+      },
+      {
+        "type": "paragraph",
+        "content": "Circular economy entrepreneur Yas Grigaliunas also launched Circular Australia three years ago and quickly became a multi-million-dollar player in the recommerce sector but ultimately closed the platform down."
+      },
+      {
+        "type": "paragraph",
+        "content": "Despite moving onto another successful enterprise in another industry sector, Grigaliunas admits that it takes a lot of investment and time to bring something like Circular Australia together. &ldquo;It's not just about pushing out a platform. We were really omni-channel, which was a real differentiator in the success that we had.&rdquo;"
+      },
+      {
+        "type": "paragraph",
+        "content": "She describes it as an unfortunate ending. &ldquo;My enterprise got to a point where we appointed a CEO, and sadly even with additional capital, we could not recover from decisions that were made at CEO level that didn't support the business.&rdquo;"
+      },
+      {
+        "type": "paragraph",
+        "content": "Grigaliunas believes that retailers should be considering how to integrate recommerce into their own platforms. &ldquo;The problem is that I can't walk into a retailer and buy something second-hand, I have to buy it on other platforms like Depop or eBay, which don't give me that brand experience. That's where brands should be trying to cash in.&rdquo;"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Platforms to play"
+      },
+      {
+        "type": "paragraph",
+        "content": "Rival reseller platform Depop has been in the local market since 2019. The platform recently removed the 10% seller fee, charging buyers 5 per cent instead, which is similar to other resale platforms, including Vinted."
+      },
+      {
+        "type": "paragraph",
+        "content": "The move aligns Depop's fee structure with the UK and US, where removing selling fees saw a 45 per cent increase in listings. In May 2026, Depop received 2.84 million Australian visits."
+      },
+      {
+        "type": "paragraph",
+        "content": "CEO Peter Semple says: &ldquo;Every item on our platform starts with someone who chooses to list it, style it, photograph it and ship it. Removing selling fees means more of every sale stays with the people who earned it and we hope it will encourage more people to take their first step into selling second hand.&rdquo;"
+      },
+      {
+        "type": "paragraph",
+        "content": "In response, eBay has pushed out a new innovation in recent months to bolster engagement and community-driven shopping events, building in live, interactive features such as real-time chat, instant purchasing, rapid-fire auctions and 'popcorn' bidding that extends timers when new bids come in linked to live listings."
+      },
+      {
+        "type": "paragraph",
+        "content": "With massive reach across Europe, Vinted is confident it can dominate in Australia. It enables sellers to list for free and keep 100 per cent of what they earn, with payment and shipping built into the app. Once the item is purchased, sellers receive a prepaid shipping label to drop off at an Australia Post location. Sellers also keep every dollar they make."
+      },
+      {
+        "type": "paragraph",
+        "content": "The platform's own research shows nine in 10 Australians have bought or sold second hand, and over half of sellers listed more items in the past year than the year before. The data also shows that 88 per cent of Australians have items at home they could sell, and nearly one in eight believe those items are worth over $1,000."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Unlocking value"
+      },
+      {
+        "type": "paragraph",
+        "content": "Recommerce is growing on the back of a shift on consumer behaviour as they favour buying and selling pre-owned goods to unlock value from items they already own, opting for longevity and sustainability over the latest fad item. Decluttering has also become a way of life amid a cost-of-living crisis."
+      },
+      {
+        "type": "paragraph",
+        "content": "But this means that retailers are no longer simply competing with each other. Instead, they are up against community-driven marketplaces, someone selling pre-loved items from their own wardrobe, a collector building a following or a creator recommending products to their audience."
+      },
+      {
+        "type": "paragraph",
+        "content": "Baby Bunting, RM Williams, Patagonia, IKEA, fashion brands Eva's Sunday and Bassike have all explored their own versions of resale, repair or circularity initiatives in response to changing consumer expectations to extend product life."
+      },
+      {
+        "type": "paragraph",
+        "content": "The Iconic has also used its scale to make circularity convenient and mainstream for its two million active customers, launching circularity hub RE-ICONIC late last year to give members a chance to discover pre-loved fashion, book tailoring and alterations or buy cheaper repaired clothing."
+      },
+      {
+        "type": "paragraph",
+        "content": "Outdoor brand Kathmandu was ahead of the curve, offering in-store and partner repair services. When products can't be repaired, customers can return used or faulty gear through recycling partners, diverting materials from landfill."
+      },
+      {
+        "type": "paragraph",
+        "content": "The brand's CEO Megan Welch believes this has reinforced trust in the brand and strengthened its reputation as a responsible outdoor brand focused on longevity rather than replacement."
+      },
+      {
+        "type": "paragraph",
+        "content": "Recommerce isn't just another marketplace entering Australia. It's a change in how consumers think about ownership as they move between new, pre-owned and reselling items, explains Kirsten Ridgway, Grant Thornton Partner."
+      },
+      {
+        "type": "paragraph",
+        "content": "The big shift is that consumers are no longer asking &lsquo;Do I want this product? They're also asking, &lsquo;What will it be worth when I'm finished with it?,&rsquo; Ridgway says."
+      },
+      {
+        "type": "paragraph",
+        "content": "However, she describes the rise in recommerce as a slow burn. &ldquo;While consumer adoption has steadily grown over many years, many retailers have been slower to embrace resale and circular models because the commercial returns aren't always immediate or easy to measure."
+      },
+      {
+        "type": "paragraph",
+        "content": "&ldquo;What's changing now is that the scale of consumer demand is becoming too significant to ignore, and retailers are increasingly recognising that resale can strengthen customer loyalty, drive engagement and extend the lifetime of both the customer and the product&rdquo; Ridgway says."
+      },
+      {
+        "type": "paragraph",
+        "content": "Retailers contemplating whether to participate in this new ecosystem have been warned to tread carefully given that recommerce introduces operational complexity for retailers."
+      },
+      {
+        "type": "paragraph",
+        "content": "Ridgway points out that unlike traditional retail, recommerce requires processes for intake, inspection, grading, pricing and presentation, all of which need to be executed consistently to maintain customer trust."
+      },
+      {
+        "type": "paragraph",
+        "content": "Retailers that succeed at recommerce tend to invest in clear condition standards, transparent product information and strong operational discipline,&rdquo; Ridgway says."
+      }
+    ]
+  },
+  "article14": {
+  "title": "Putting AI agents to work for multi-location brands",
+  "hero": {
+    "category": "",
+    "headline": "Putting AI agents to work for multi-location brands",
+    "subtitle": "Birdeye builds AI agents that do the work for multi-location brands, from replying to every social comment to tracking a brand’s visibility across 6,500 AI prompts.",
+    "byline": "In collaboration with Birdeye",
+    "meta": "04 Nov 2026 • Video podcast",
+    "heroImage": "Birdeye-hero-image-Article.jpg"
+  },
+  "sections": [
+    {
+      "type": "paragraph",
+      "content": "In conversation with Patrick Rechsteiner, AI Advisor on NORA’s Advisory Council, Australia Managing Director Tony Van-Eyk explains how those agents work in practice. He covers why reviews rank second in AI visibility, how to decide which jobs belong to AI, and why retail leaders should start with small wins."
+    },
+    {
+      "type": "video",
+      "src": "https://player.vimeo.com/video/1247432447?badge=0&autopause=0&player_id=0&app_id=58479",
+      "title": "Birdeye podcast: Tony Van-Eyk in conversation with Patrick Rechsteiner"
+    }
+  ]
+},
+  "article15": {
+    "title": "Retail at a turning point",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "Retail at a turning point",
+      "subtitle": "What the Berlin Retail Congress signals for the industry ahead",
+      "byline": "By Peter Knock, NORA Berlin correspondent",
+      "meta": "25 JULY 2026  •  5 MIN READ",
+      "heroImage": "Retail-Turning-Point-Article.jpg",
+      "portrait": "peter-knock.png"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "lobal retail leaders meeting in Berlin delivered a message that will resonate strongly in Australia: volatility is here to stay, customers are changing faster, and AI is quickly becoming part of day-to-day retail operations. For local retailers, the challenge is to stay resilient while sharpening value, relevance and productivity.",
+        "dropCap": "G"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "What Australian retailers should take from Berlin"
+      },
+      {
+        "type": "paragraph",
+        "content": "The clearest takeaway from the World Retail Congress and the Federation of International Retail Associations meeting was that uncertainty is no longer temporary. Cost pressure, subdued spending, supply chain complexity and stronger competition are now built into the retail environment."
+      },
+      {
+        "type": "paragraph",
+        "content": "For Australian businesses, strategy must focus on resilience, disciplined execution and the ability to adapt quickly as conditions change."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Key insight 01 - Cost pressure and competition"
+      },
+      {
+        "type": "paragraph",
+        "content": "Australian retailers are managing inflationary pressure, freight complexity, energy costs, labour challenges and a more value-conscious consumer. Those pressures are changing assumptions around pricing, investment and expansion. At the same time, competition is coming from every direction, including digital marketplaces and cross-border sellers, making differentiation more important than ever."
+      },
+      {
+        "type": "paragraph",
+        "content": "The congress also reinforced that retail should be recognised as part of Australia’s economic and social infrastructure. That strengthens the case for practical policy settings on competition, payments, customs, workforce issues and AI governance. For the sector, advocacy is no longer separate from strategy."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Key insight 02 - The customer shift"
+      },
+      {
+        "type": "paragraph",
+        "content": "Customers are no longer moving neatly through a traditional path to purchase. They compare more, switch channels faster and expect stronger value, convenience and relevance. For Australian retailers, that means investing in loyalty, local area marketing, service, fulfilment and connected digital-physical experiences. In slower-growth categories, clear differentiation, whether through private label, service, sustainability or in-store experience, is becoming critical to protecting margin and staying relevant."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Key insight 03 - AI and productivity"
+      },
+      {
+        "type": "paragraph",
+        "content": "AI was one of the strongest themes across the event, but the debate has shifted from experimentation to application. For retailers, the most immediate value is likely to come from pricing, assortment, marketing content, customer service and workforce productivity. The key challenge now is to invest with discipline, supported by stronger data, governance and leadership capability."
+      },
+      {
+        "type": "paragraph",
+        "content": "For Australian retail, the implication is clear: lift productivity, improve decision-making and adopt AI in ways that strengthen service and trust, not just reduce cost."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Key insight 04 - Berlin retail innovation"
+      },
+      {
+        "type": "paragraph",
+        "content": "Bikini Berlin offered a compelling example of how physical retail can become a platform for innovation, experience and experimentation rather than just transaction. Positioned as a concept shopping mall, it blends architecture, design and curated retail to showcase emerging brands and new ideas in a highly visible consumer setting."
+      },
+      {
+        "type": "paragraph",
+        "content": "One standout example was SHIFT, a microfactory created by VORN – The Berlin Fashion Hub, which demonstrates how fashion design, digital production and on-demand manufacturing can come together in a live retail environment. The model allows designers and brands to explore more local, agile and sustainable production, while giving shoppers direct exposure to the future of fashion creation. Overall, Bikini Berlin reflects a broader shift in retail towards spaces that combine commerce, storytelling, technology and circular innovation."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Bottom line"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Berlin discussions pointed to a sector that must become more resilient, more customer-centred and more technologically capable at the same time. Retailers that move early on productivity, customer relevance and AI capability will be better placed than those waiting for conditions to stabilise."
+      },
+      {
+        "type": "paragraph",
+        "content": "This is a moment for deliberate action. The retailers best positioned for the next phase will be those that protect resilience, sharpen their proposition and stay engaged in the policy settings shaping the future of the sector."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Key action points for retailers"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Strengthen planning for softer demand, cost pressure and global disruption.",
+          "Protect cash flow while continuing to invest in priority transformation.",
+          "Focus on value, loyalty and distinctive customer experience.",
+          "Review supply chain, store and fulfilment models for flexibility and efficiency.",
+          "Prioritise AI use cases that improve productivity, service and decision-making.",
+          "Invest in the governance and capability needed to scale AI responsibly.",
+          "Stay active on policy and industry advocacy."
+        ]
+      }
+    ]
+  },
+"article16": {
+  "title": "The diplomat behind Australia’s live selling boom",
+  "hero": {
+    "category": "",
+    "headline": "The diplomat behind Australia’s live selling boom",
+    "subtitle": "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
+    "byline": "",
+    "meta": "09 NOVEMBER 2026  •  3 MIN READ",
+    "heroImage": "whatnot-hero.jpg"
+  },
+  "sections": [
+    {
+      "type": "paragraph",
+      "content": "ustralia’s retailers have spent two decades learning how to sell online.",
+      "dropCap": "A"
+    },
+    {
+      "type": "paragraph",
+      "content": "Now a new generation of platforms is asking them to sell live."
+    },
+    {
+      "type": "paragraph",
+      "content": "At the centre of that change is Alex McCauley, a former Australian diplomat who leads the local operations of Whatnot, a live-shopping platform betting that the future of e-commerce looks like a conversation."
+    },
+    {
+      "type": "paragraph",
+      "content": "The idea recently faced a real test in Sydney."
+    },
+    {
+      "type": "paragraph",
+      "content": "At Paddington Town Hall, during a Romance Was Born warehouse sale, a Whatnot employee waited to make the case for live selling."
+    },
+    {
+      "type": "paragraph",
+      "content": "She’d heard the label’s general manager would arrive to help set up the sale, so she stayed until she was given five minutes to make the case for going live on the platform."
+    },
+    {
+      "type": "paragraph",
+      "content": "The label put out its leftover stock, the employee went live with just a ring light and an iphone and two hours later, the label had matched a full day of warehouse sales, with the weakest stock left."
+    },
+    {
+      "type": "paragraph",
+      "content": "Her boss, Alex McCauley, general manager of Whatnot Australia, says Australian buyers have taken to live selling fast."
+    },
+    {
+      "type": "paragraph",
+      "content": "“I think it was better than my plan,” he says."
+    },
+    {
+      "type": "paragraph",
+      "content": "“There was just this immediate appetite here,” McCauley says, speaking of the cards and collectables that launched the platform."
+    },
+    {
+      "type": "paragraph",
+      "content": "McCauley reached Whatnot after a career that began in law and took him to Tel Aviv as an Australian diplomat."
+    },
+    {
+      "type": "paragraph",
+      "content": "He later helped found the Tech Council of Australia, which launched in 2021 with 25 member companies where he spent 18 months persuading companies to back a single voice for Australian tech."
+    },
+    {
+      "type": "paragraph",
+      "content": "At Whatnot, he leads a local team that has grown from three people to 20 since September 2025, a platform he says relies heavily on its legacy of being community driven."
+    },
+    {
+      "type": "paragraph",
+      "content": "Whatnot began with Funko Pops, grew into trading cards and sports cards, and opened to Australian sellers on 13 October 2024 at a trading card show in Melbourne. Women’s fashion is now the category McCauley sees as the next big market. A seller goes live with a table of stock, picks up the next item and starts the bidding at $1, and buyers gather in a room with people who share their interest."
+    },
+    {
+      "type": "paragraph",
+      "content": "<img src=\"/assets/whatnot-body.jpg\" alt=\"A seller holding up a box while selling live on a phone\" style=\"width:100%;height:auto;display:block;margin:12px 0;\" />"
+    },
+    {
+      "type": "paragraph",
+      "content": "McCauley’s case to the industry starts in store."
+    },
+    {
+      "type": "paragraph",
+      "content": "“People visit a store for the conversation” he says"
+    },
+    {
+      "type": "paragraph",
+      "content": "“Unfortunately the economics of retail have squeezed that conversation thin.”"
+    },
+    {
+      "type": "paragraph",
+      "content": "He also reads retail’s past as a guide to what comes next."
+    },
+    {
+      "type": "paragraph",
+      "content": "Twenty years ago, he says, many retailers expected a few online specialists to handle e-commerce while everyone else kept trading in store."
+    },
+    {
+      "type": "paragraph",
+      "content": "They built websites so customers could find them and left the selling to someone else, then shoppers grew comfortable, and a retailer without an online store became hard to imagine."
+    },
+    {
+      "type": "paragraph",
+      "content": "He goes back further to the 90s, when people predicted that furniture and cars would stay offline. Those buyers moved too, once a destination earned their trust and a new generation grew up using it. Whatnot’s chief revenue officer made the same point in a presentation in the US a few weeks ago, and McCauley sees live selling at that same early moment in its story."
+    },
+    {
+      "type": "paragraph",
+      "content": "McCauley looks well past Whatnot’s origin story of cards and geek culture collectibles."
+    },
+    {
+      "type": "paragraph",
+      "content": "He says Whatnot is currently building a separate section of the app for premium goods and he expects rare pieces, art and antiques to find their way onto the platform."
+    },
+    {
+      "type": "paragraph",
+      "content": "He is pushing his colleagues in the US to add houses, and he says it’s just a matter of time before live online house auctions become the norm."
+    },
+    {
+      "type": "paragraph",
+      "content": "Diplomacy gave him the skills for building a market from scratch. Just as diplomats learn to earn trust from people who see the world differently, McCauley works to earn the trust of retailers who are weighing a new channel."
+    },
+    {
+      "type": "paragraph",
+      "content": "His advice? Make the first step."
+    },
+    {
+      "type": "paragraph",
+      "content": "“Forget about making it perfect.”"
+    },
+    {
+      "type": "paragraph",
+      "content": "“Each time the industry changed, the move online looked optional, it was shoppers who decided when it became ordinary. The room fills around the people who are already in it.”"
+    }
+  ]
+},
+  "article17": {
+    "title": "The great retail decoupling",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "The great retail decoupling",
+      "subtitle": "The Australian consumer is in better shape than the mood in most boardrooms suggests, but the gap between retail winners and losers is set to widen.",
+      "byline": "By Ben Gilbert, Jarden",
+      "meta": "11 SEPTEMBER 2026  •  4 MIN READ",
+      "heroImage": "Retail-Decoupling-article.jpg",
+      "portrait": "ben_gilbert.jpeg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "he Australian consumer is in better shape than the mood in most boardrooms suggests; ABS household spending accelerated to c7% year-on-year in July, its strongest pace in over a year, confidence is back to pre-Middle East conflict levels and household deposits are fast approaching $1.8 trillion.",
+        "dropCap": "T"
+      },
+      {
+        "type": "paragraph",
+        "content": "<img src=\"/assets/intelligence_unit_1.png\" alt=\"\" style=\"width:100%;height:auto;display:block;margin:12px 0;\" />"
+      },
+      {
+        "type": "paragraph",
+        "content": "The consumer can and will spend, the question is are retailers giving them a reason to?"
+      },
+      {
+        "type": "paragraph",
+        "content": "This was a key theme through the recent retailer results, whereby the gap between winners and losers grew and those companies that had the right product at the right price and the right time won."
+      },
+      {
+        "type": "paragraph",
+        "content": "<img src=\"/assets/intelligence_unit_2.png\" alt=\"\" style=\"width:100%;height:auto;display:block;margin:12px 0;\" />"
+      },
+      {
+        "type": "paragraph",
+        "content": "We are seeing this across a raft of categories: In grocery Woolworths Ooshies promotion was a resounding success, with the group recording a 7.6% lift in sales for the first 8wks of FY27, as consumers (or the parents of) responded to a unique, differentiated limited time offer."
+      },
+      {
+        "type": "paragraph",
+        "content": "In online Amazon continued to positively surprise and delight, further strengthening its delivery promise in August driving both increased order frequency but more significantly lifting customer expectations. We are seeing incumbents respond with the likes of Coles, Woolworths and Super Retail Group accelerating roll-out plans to leverage their competitive advantage and strengthen ultra-fast delivery and click &amp; collect."
+      },
+      {
+        "type": "paragraph",
+        "content": "Across non-food we saw brands with unique offers targeting specific consumer sub-sets deliver strong results with Universal Stores, Skin Candy and Lovisa all performing well."
+      },
+      {
+        "type": "paragraph",
+        "content": "Health remains a key growth channel; with GLP-1 sales were up &gt;50% y/y driving strong growth for both Priceline and Chemist Warehouse, while also having positive flow on effects across categories such as vitamins and high-protein products in grocery. On the flip-side, it is having a negative effect on areas such as snacking and liquor, but this also presents opportunities via smaller (often higher margin) pack sizes."
+      },
+      {
+        "type": "paragraph",
+        "content": "There were some weaker results, with the impact of growing competition, consumers deferring purchases until key sales events and AI prevalent in areas such as electronics, local marketplaces and department stores."
+      },
+      {
+        "type": "paragraph",
+        "content": "<img src=\"/assets/intelligence_unit_3.png\" alt=\"\" style=\"width:100%;height:auto;display:block;margin:12px 0;\" />"
+      },
+      {
+        "type": "paragraph",
+        "content": "Looking forward there are five themes we are watching into FY27; First, the &ldquo;macro versus micro&rdquo; decoupling &mdash; strong aggregate spending data continues to suggest the consumer is in a better place than company updates would suggest. We expect FY27 to be a year where companies that get the small things right via product, price and service win &ndash; we expect the gap between winners and losers to widen. Second, margin; pressure from freight, the 4.75% minimum wage increase and rising promotional I creates risk around profit margins into FY27. Third, a capex tug-of-war between store expansion and supply chain, where we think the latter matters more given marketplace growth in Australia, and specifically Amazon which we expect to surpass $10b of GMV this year. Fourth, the monetisation of adjacencies &mdash; A real opportunity exists for brands to better monetise traffic via partnerships, media and loyalty; Woolworths is best practice locally, with this channel totaling &gt;$300m of profit (EBIT) in FY26. Fifth, AI, the productivity and revenue opportunity are understand, Agentic is the key theme for 2027, it will democratize the store front and brands need to understand how to embrace this."
+      },
+      {
+        "type": "paragraph",
+        "content": "So how should companies position over the next twelve months? Ignore the temptation to make a macro call and ask three questions: What is your competitive moat? How do you leverage this to grow share of wallet? What productivity / adjacency opportunities exist to lift ROIC? For retailers, that means leaning into, and widening, your moat rather than chasing the cycle &mdash; winning on the full value equation of range, price, service and quality, not price alone; building genuine product differentiation rather than renting someone else&rsquo;s; and monetising data, media and marketplace adjacencies before a competitor &mdash; or Amazon &mdash; does it for you."
+      },
+      {
+        "type": "paragraph",
+        "content": "We remain optimistic on the outlook, but expect the market to bifurcate with brands ability to segment and target the customer and grow share of wallet key. The gap between winners and losers will widen."
+      },
+      {
+        "type": "paragraph",
+        "content": "If you would like to be on Ben&rsquo;s weekly newsletter reporting weekly spending, traffic and news please contact him through email."
+      },
+      {
+        "type": "paragraph",
+        "content": "<a class=\"article-button\" target=\"_blank\" href=\"mailto:ben.gilbert@jardengroup.com.au\">Contact Ben</a>"
+      }
+    ]
+  },
+  "article18": {
+    "title": "The state of AI in retail",
+    "hero": {
+      "category": "RETAIL &middot; INSIGHTS",
+      "headline": "The state of AI in retail",
+      "subtitle": "Australian retail is racing towards AI. But how embedded is it really?",
+      "byline": "In collaboration with Shopify",
+      "meta": "15 SEPTEMBER 2026  •  4 MIN READ",
+      "heroImage": "state-of-ai.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "AI has quickly moved from experimentation to a strategic priority for Australian retailers. Yet while investment, pilots and ambition are accelerating, the way businesses are approaching AI varies significantly.",
+        "dropCap": "A"
+      },
+      {
+        "type": "paragraph",
+        "content": "NORA and Shopify surveyed 184 retail executives representing 127 companies across Australia to understand what AI adoption actually looks like on the ground."
+      },
+      {
+        "type": "paragraph",
+        "content": "The research explores adoption maturity, ownership, internal capability, budgets and implementation approaches, creating a benchmark for an industry moving quickly while navigating many of the same challenges."
+      },
+      {
+        "type": "paragraph",
+        "content": "The numbers tell an interesting story."
+      },
+      {
+        "type": "paragraph",
+        "content": "82% of retail leaders surveyed have agentic commerce modernisation on their roadmap."
+      },
+      {
+        "type": "paragraph",
+        "content": "Yet just 8% believe AI is fully embedded in how their organisation operates."
+      },
+      {
+        "type": "paragraph",
+        "content": "That gap between ambition and operational maturity is where many of the industry's biggest questions now sit."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Why measure AI adoption now?"
+      },
+      {
+        "type": "paragraph",
+        "content": "Over the past 18 months, NORA has brought retail leaders together through multiple Retail GenAI Summits to discuss how AI is changing their businesses."
+      },
+      {
+        "type": "paragraph",
+        "content": "One thing has become increasingly clear: there is no single playbook."
+      },
+      {
+        "type": "paragraph",
+        "content": "Retailers are moving at different speeds, placing ownership in different parts of the business and taking very different approaches to capability, investment and implementation."
+      },
+      {
+        "type": "paragraph",
+        "content": "The State of AI in Retail was created to establish a shared baseline: what retailers are doing today, what they believe is working, where investment is heading and what is getting in the way."
+      },
+      {
+        "type": "paragraph",
+        "content": "Fielded ahead of NORA's Retail GenAI Summit in September 2026, the research provides a snapshot of the AI-engaged end of the Australian retail market at a pivotal point in its adoption."
+      },
+      {
+        "type": "paragraph",
+        "content": "184 retail leaders. 127 companies. One view of where Australian retail really sits on AI."
+      },
+      {
+        "type": "paragraph",
+        "content": "<a class=\"article-button\" target=\"_blank\" href=\"https://forms.monday.com/forms/95734b7435e4c0f2e5d17f2368f27827?r=apse2\">Download The State of AI in Retail Report</a>"
+      }
+    ]
+  },
+  "article19": {
+    "title": "The performance trap: what an uneven marketing split costs Australian retailers",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "The performance trap: what an uneven marketing split costs Australian retailers",
+      "subtitle": "Australian retailers may be spending more to win customers while underinvesting in the brand that keeps them. At NORA’s Hyperelevance Summit, presenters argued that brand building and a genuine sense of purpose can lift loyalty and margin together.",
+      "byline": "",
+      "meta": "17 Nov 2026  •  4 MIN READ",
+      "heroImage": "HRS-Hero-Image-Article.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "Most Australian businesses have developed an expensive habit."
+      },
+      {
+        "type": "paragraph",
+        "content": "According to NORA’s Hyperelevance Summit, they put 90 percent of their budgets into performance marketing. Brand building gets the remaining 10 percent."
+      },
+      {
+        "type": "paragraph",
+        "content": "Price competition may explain why."
+      },
+      {
+        "type": "paragraph",
+        "content": "Will On, co-founder of Shippit, said pricing pressure is one big lever for the retailers he works with. When The Iconic launched free delivery, he said, it “changed the game for everyone,” and rivals had to match it. “When rivals keep matching each other’s offers, the spend that wins the next sale can look like the safest bet.”"
+      },
+      {
+        "type": "paragraph",
+        "content": "Performance marketing mostly reaches the 5 percent of buyers who are buying now. The other 95 percent are in consideration or will buy soon, and brand investment builds that future demand today. Tomorrow’s growth comes at lower cost from a much larger pool of customers."
+      },
+      {
+        "type": "paragraph",
+        "content": "Best practice sits at 60 percent brand building and 40 percent performance marketing, according to Binet &amp; Field’s analysis of more than 1,000 commercial cases."
+      },
+      {
+        "type": "paragraph",
+        "content": "The first cost is margin. Presenters put the rise in performance marketing costs at 60 percent over the last four years. Customer acquisition costs rise with it, and customers switch brands for a 5 percent discount, which shows how little brand loyalty remains."
+      },
+      {
+        "type": "paragraph",
+        "content": "Speakers called the point where rising costs meet thin loyalty the ‘performance wall’."
+      },
+      {
+        "type": "paragraph",
+        "content": "Jordana Macfarlaine, formerly of Havaianas Australia, described the same pressure."
+      },
+      {
+        "type": "paragraph",
+        "content": "Rising acquisition costs are “really hard for a business to continue to keep up with,” she said, and “just churning out digital paid ads is not having any human connection or emotion in any way.”"
+      },
+      {
+        "type": "paragraph",
+        "content": "She gave the brand-side explanation for why customers leave. Without consistent storytelling, she said, “you are not relevant. And people will move on to the next product, the next brand, because they’re not really loyal to you.”"
+      },
+      {
+        "type": "paragraph",
+        "content": "The second cost is control. A defensible brand, speakers said, protects retailers from global marketplaces such as Temu and Shein."
+      },
+      {
+        "type": "paragraph",
+        "content": "The third is pricing power. Reduced price sensitivity is among the most underrated commercial benefits of emotional brand building."
+      },
+      {
+        "type": "paragraph",
+        "content": "Kieron Ritchard, former CEO of Fantastic Furniture, put the point plainly on the opening panel."
+      },
+      {
+        "type": "paragraph",
+        "content": "“Brands drive premium,” he said. “A brand earns that premium by truly understanding its foundations.”"
+      },
+      {
+        "type": "paragraph",
+        "content": "Understanding those foundations starts inside the business."
+      },
+      {
+        "type": "paragraph",
+        "content": "Purpose, Ritchard said, “connects first with your employee proposition, and then in turn to your customer value proposition.”"
+      },
+      {
+        "type": "paragraph",
+        "content": "That sequence is how purpose builds brand equity. Customers who connect with what a retailer stands for have a reason to keep choosing it when a rival offers a discount."
+      },
+      {
+        "type": "paragraph",
+        "content": "Impact storytelling is the strongest way to build that connection."
+      },
+      {
+        "type": "paragraph",
+        "content": "Giving back taps into hope, empathy and community. It gives customers something bigger to belong to, beyond the reach of any rival’s discount or ad spend. It builds warmth, trust and lasting affinity among customers who will buy later."
+      },
+      {
+        "type": "paragraph",
+        "content": "“The commitment has to last and match what the brand cares about because customers can read a mismatch as inauthentic,” Ritchard said."
+      },
+      {
+        "type": "paragraph",
+        "content": "In Australia, 74 percent of consumers seek out purpose-driven retailers, according to the summit and yet only 12 percent of Australian brands currently communicate a unified emotional brand story. That gap is unbuilt brand equity."
+      },
+      {
+        "type": "paragraph",
+        "content": "According to Macfarlaine, building that equity takes patience."
+      },
+      {
+        "type": "paragraph",
+        "content": "The former Marketing Director of Havaianas Australia said it took Havaianas “probably a year” before it started brand partnerships, because the team “needed to build that brand almost again.”"
+      },
+      {
+        "type": "paragraph",
+        "content": "Every retailer decides how much more to pay for customers who leave for a 5 percent discount. Brand equity decides how many of them stay."
+      }
+    ]
+  }
+}

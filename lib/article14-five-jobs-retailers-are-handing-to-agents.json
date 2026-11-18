@@ -1,0 +1,157 @@
+  "article14": {
+    "title": "Five jobs retailers are handing to agents",
+    "hero": {
+      "category": "RETAIL &middot; OPERATIONS",
+      "headline": "Five jobs retailers are handing to agents",
+      "subtitle": "Agentic AI has moved past the demonstration stage in retail. A look at five operational jobs agents are being given today and what separates a good first candidate process from an expensive one.",
+      "byline": "In collaboration with Annexa",
+      "meta": "25 JULY 2024  •  4 MIN READ",
+      "heroImage": "five-jobs-retailers.jpg"
+    },
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "s AI moves from experiment into daily operations, much of retail’s attention has focused on customer-facing applications: chat, search, personalisation and recommendation. But some of the most valuable deployments sit behind the counter, in the back-of-house work that keeps a business running.",
+        "dropCap": "A"
+      },
+      {
+        "type": "paragraph",
+        "content": "AI agents are being given defined jobs inside existing processes: watching stock, checking invoices, tracking demand and matching transactions, saving hours of admin."
+      },
+      {
+        "type": "paragraph",
+        "content": "Here are five of those AI agent jobs."
+      },
+      {
+        "type": "paragraph",
+        "content": "Agents are configured to the business they run in, so the signals they watch, the thresholds they act on and the point at which they hand over are decisions the retailer can make."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "1. Spotting customers before they leave"
+      },
+      {
+        "type": "paragraph",
+        "content": "Most retailers find out they have lost a customer at the end of the quarter. But the signs were there months earlier, in less frequent orders and smaller baskets."
+      },
+      {
+        "type": "paragraph",
+        "content": "This is the sort of pattern an agent is good at. It can run against order history every night, comparing each account's recent buying to its own normal rather than an average and flagging those that have drifted."
+      },
+      {
+        "type": "paragraph",
+        "content": "A customer who ordered fortnightly for two years but has now gone six weeks without an order needs treating differently from one who buys twice a year."
+      },
+      {
+        "type": "paragraph",
+        "content": "When one crosses the line, the agent can put the purchase history, recent support contacts and value at risk in front of whoever owns the relationship, taking account management from reactive to more systematic."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "2. Taking replenishment off the cycle"
+      },
+      {
+        "type": "paragraph",
+        "content": "Replenishment is another opportunity: it runs on internal cycles, while demand does not."
+      },
+      {
+        "type": "paragraph",
+        "content": "An agent can continuously compare sell-through, stock on hand and lead time, surfacing a line only when those signals stop working together."
+      },
+      {
+        "type": "paragraph",
+        "content": "The buyer can then open a drafted order rather than a report, with the sell-through behind it. They still decide whether the spike is real or promotional, whether stock elsewhere covers it and whether the cash makes sense this quarter. They just make that decision earlier, without having to assemble the case first."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "3. Catching supplier invoice discrepancies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Supplier invoices are a third. When an invoice arrives above the purchase order, someone might spend forty minutes checking transaction history and previous invoices to understand a variance of a few hundred dollars. Often that work never happens, which is how small overcharges survive."
+      },
+      {
+        "type": "paragraph",
+        "content": "An agent can compare every invoice against its purchase order, receipt and previous supplier pricing."
+      },
+      {
+        "type": "paragraph",
+        "content": "Where those disagree, finance gets the invoice with the order, the pricing history and size of the gap already attached, and decides whether it is a negotiated increase, an error or a conversation with the supplier."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "4. Getting stock to the right place"
+      },
+      {
+        "type": "paragraph",
+        "content": "Allocation is the fourth, and the stock is already in the business, just in the wrong place."
+      },
+      {
+        "type": "paragraph",
+        "content": "One store sells through a colourway in a week, while three others have had it sitting for months, but separate reporting means the two aren't connected."
+      },
+      {
+        "type": "paragraph",
+        "content": "An agent can spot where a location is diverging from its usual sell-through pattern and identify stock elsewhere in the network that could cover it."
+      },
+      {
+        "type": "paragraph",
+        "content": "What reaches merchandising is a proposed reallocation with both positions attached, leaving them to decide whether it is worth the freight, whether the slow store has a campaign coming and whether the fast one holds through the month."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "5. Scaling reconciliation as the business grows"
+      },
+      {
+        "type": "paragraph",
+        "content": "The fifth is reconciliation, which gets harder as the business grows. Every additional transaction is another line to be matched against an invoice and a payment."
+      },
+      {
+        "type": "paragraph",
+        "content": "An agent can continuously take each payment and look for the invoice it belongs to, using the reference if there is one and the amount and date if there is not."
+      },
+      {
+        "type": "paragraph",
+        "content": "Most match and disappear. Exceptions go to finance grouped by issue, rather than requiring someone to work through every transaction in date order."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Where should retailers start?"
+      },
+      {
+        "type": "paragraph",
+        "content": "None of these five is particularly glamorous, and that's what they have in common. They take on the searching, sorting and comparing that happens before someone makes a call."
+      },
+      {
+        "type": "paragraph",
+        "content": "As more agents become available, retailers can build a team of them, each with a job, handing over the mundane work and leaving people free for the decisions that truly need a person."
+      },
+      {
+        "type": "paragraph",
+        "content": "If you are considering where to start with agents, the first processes to hand over should be observable, repeatable and already governed. A good first candidate has clear signals, defined approval paths, trusted data and a measurable outcome."
+      },
+      {
+        "type": "paragraph",
+        "content": "An agent does not need to replace the decision-maker. <strong>It</strong> only needs to remove the manual work that happens before the decision is made. Retailers that start with those characteristics are far more likely to find practical value than those trying to fully automate high-risk decisions from day one."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "About Annexa"
+      },
+      {
+        "type": "paragraph",
+        "content": "Annexa is a leading NetSuite solution provider and systems integration partner supporting mid-market and enterprise organisations across Australia and New Zealand. The company brings deep experience across finance, multi-entity operations, supply chain, eCommerce and advanced integration, delivering ERP solutions that improve visibility, lift performance and create scalable foundations for growth."
+      },
+      {
+        "type": "paragraph",
+        "content": "<a class=\"article-button\" target=\"_blank\" href=\"https://annexa.com.au/\">Annexa Website</a>"
+      }
+    ]
+  },
