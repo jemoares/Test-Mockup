@@ -286,7 +286,7 @@ export const EDITORIAL_ARTICLES_FEATURED_POV: GCard[] = [
       "Technology challenges us to assert our human values, which means that first of all, we have to figure out what they are.",
     title: "An analogue lens in a digital AI world",
     href: "/article/an-analogue-lens-in-a-digital-ai-world",
-    image: "Analog-lens-Tile.jpg",
+    image: "Analog-Lens-Tile.jpg",
     date: "2026-06-10T00:00:00Z",
     textColor: "white",
   },
