@@ -43,7 +43,7 @@ export const FOUR_CHANNELS: Channel[] = [
   {
     number: "02",
     title: "Featured POVs",
-    image: "paul-greenberg",
+    image: "Alex_whatnot",
     href: "/channel/featured-pov",
   },
   {
