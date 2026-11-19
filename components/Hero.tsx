@@ -102,27 +102,12 @@ export function Hero() {
                 whiteSpace: isMobile ? "normal" : "nowrap",
               }}
             >
-              An analogue lens<br/>
-              in a digital AI world
+              The diplomat behind<br/>
+              Australia’s live selling<br/>
+              boom
             </h1>
           </Reveal>
 
-          <Reveal
-            delay={1}
-            style={{ position: "relative", left: isMobile ? r(20) : r(59), marginTop: isMobile ? r(100) : r(30), width: isMobile ? 'calc(100% - 40px)' : r(419), padding: isMobile ? `0 ${r(60)}` : 0 }}  
-          >
-            <p className="font-inter"
-              style={{
-                color: "#fff", 
-                fontSize: isMobile ? r(50) : r(17.6),
-                lineHeight: isMobile ? r(90) : r(28),
-                letterSpacing: r(0.32),
-                fontWeight: 400,
-              }}
-            >
-              By featured writer: Paul Greenberg, Chair, NORA
-            </p>
-          </Reveal>
 
           {/* Right featured article — builds second */}
           <Reveal
@@ -139,7 +124,7 @@ export function Hero() {
                 fontWeight: 400,
               }}
             >
-            Rather, I have consciously chosen to occupy a respectful contrarian position to the dominant narrative of a future driven almost entirely by technology - one where AI is said to be “eating the world.”
+            Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.
             </p>
             <img
               src={asset("/assets/NOR0001_Swiggle5-Violet_1080x1080PX.gif")}
@@ -159,9 +144,9 @@ export function Hero() {
           {/* READ ARTICLE (with divider) — builds third, beneath the paragraph */}
           <Reveal
             delay={1}
-            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1500) : r(550) }}
+            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1300) : r(500) }}
           >
-            <ReadLink href={`/article/an-analogue-lens-in-a-digital-ai-world`} style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />
+            <ReadLink href="/article/whatnot-live-selling-boom" style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />
           </Reveal>
 
         </div>

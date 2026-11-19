@@ -11,7 +11,16 @@ import { FadeUp, ScrollLetters } from "./anim";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { DateTime } from 'luxon';
-import { EDITORIAL_ARTICLES, EDITORIAL_ARTICLES_1, GCard, FOUR_CHANNELS, CHANNELS, Channel, EDITORIAL_ARTICLES_INTELLIGENCE } from '@/lib/constants';
+import {
+  EDITORIAL_ARTICLES,
+  EDITORIAL_ARTICLES_1,
+  EDITORIAL_ARTICLES_FEATURED_POV,
+  EDITORIAL_ARTICLES_INTELLIGENCE,
+  GCard,
+  FOUR_CHANNELS,
+  CHANNELS,
+  Channel,
+} from "@/lib/constants";
 import { useIsMobile } from "./useIsMobile";
 import { useBackLabel } from "@/lib/useBackLabel";
 
@@ -531,11 +540,20 @@ export function EditorialSection({ title, article }: { title: string, article: b
 
 
             const ARTICLES = (() => {
-              if(title == "This month's consequential insights") return EDITORIAL_ARTICLES;
-              if(title == "In collaboration") return EDITORIAL_ARTICLES_1;
-              if(title == "The intelligence unit") return EDITORIAL_ARTICLES_INTELLIGENCE;
+            if (title === "This month's consequential insights")
+              return EDITORIAL_ARTICLES;
+
+            if (title.toLowerCase().includes("featured pov"))
+              return EDITORIAL_ARTICLES_FEATURED_POV;
+
+            if (title === "In collaboration")
               return EDITORIAL_ARTICLES_1;
-            })();
+
+            if (title === "The intelligence unit")
+              return EDITORIAL_ARTICLES_INTELLIGENCE;
+
+            return EDITORIAL_ARTICLES_1;
+          })();
 
             const numColumns = isMobile ? 2 : 3;
             const articles = [...ARTICLES];

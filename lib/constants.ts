@@ -42,9 +42,9 @@ export type Channel = {
 export const FOUR_CHANNELS: Channel[] = [
   {
     number: "02",
-    title: "Featured POV",
+    title: "Featured POVs",
     image: "paul-greenberg",
-    href: "/article/the-diplomat-behind-australias-live-selling-boom",
+    href: "/channel/featured-pov",
   },
   {
     number: "03",
@@ -68,8 +68,8 @@ export const FOUR_CHANNELS: Channel[] = [
 
 export const CHANNELS = [
   {
-    slug: "/article/the-diplomat-behind-australias-live-selling-boom",
-    title: "Featured POV",
+    slug: "/channel/featured-pov",
+    title: "Featured POVs",
     height1: 2000,
     height2: 1500,
   },
@@ -171,17 +171,18 @@ const GALLERY_TILES: Tile[] = [
 ];
 
 export const EDITORIAL_ARTICLES: GCard[] = [
-  {
+    {
     kind: "tall",
     left: 0,
     top: 0,
-    title: "An analogue lens in a digital AI world",
     blurb:
-      "I was at a high-tech show in Las Vegas a few years ago. The latest high-resolution technology was on dazzling display.",
-    href: "/article/an-analogue-lens-in-a-digital-ai-world/",
-    author: "Featured writer: Paul Greenberg, chair, NORA",
-    image: "Analog-Lens-Tile.jpg",
-    date: "2026-06-10T00:00:00Z",
+      "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
+    title: "The diplomat behind Australia’s live selling boom",
+    href: "/article/the-diplomat-behind-australias-live-selling-boom",
+    author: "",
+    image: "Whatnot-Tile.jpg",
+    date: "2026-11-09T00:00:00Z",
+    textColor: "white"
   },
   {
     kind: "wide",
@@ -200,38 +201,42 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     kind: "tall",
     left: 0,
     top: 0,
+    title: "The performance trap: what an uneven marketing split costs Australian retailers",
     blurb:
-      "The rise of tech-savvy recommerce platforms with gamification built in is forcing retailers to redefine resale strategies of their own. ",
-    title: "Global recommerce giants vying for dominance in Aussie market",
-    href: "/article/global-commerce-giants",
-    author: "Nina Hendy, lead journalist, NORA edit",
-    image: "Recommerce-Tile.jpg",
+      "I was at a high-tech show in Las Vegas a few years ago. The latest high-resolution technology was on dazzling display.",
+    href: "/article/the-performance-trap/",
+    author: "",
+    image: "HRS-Tile.jpg",
+    date: "2026-06-10T00:00:00Z",
   },
   {
     kind: "wide",
     left: 0,
     top: 0,
     blurb:
-      "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
-    title: "The diplomat behind Australia’s live selling boom",
-    href: "/article/the-diplomat-behind-australias-live-selling-boom",
-    author: "",
-    image: "Whatnot-Tile.jpg",
-    date: "2026-11-09T00:00:00Z",
+      "Why the right solution partner matters as much as the platform",
+    caption: "Industry Persectives",
+    title: "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
+    author: "In collaboration with Fujitsu",
+    href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner",
+    image: "Fujitsu-Tile.jpg",
+    date: "2026-11-11T00:00:00Z",
     textColor: "black"
   },
   {
     kind: "tall",
     left: 0,
     top: 0,
-    blurb: "Global retail leaders meeting in Berlin delivered a message that will resonate strongly in Australia",
-    caption: "Retail at a turning point",
-    title: "Retail at a turning point",
-    href: "/article/retail-at-a-turning-point",
-    image: "retail-tile.jpg",
-    date: "2026-07-25T00:00:00Z",
-    author: "Peter Knock, NORA Berlin correspondent",
+    title: "Velocity Summit 2026 Wrap-up",
+    caption: "Behind the Scenes at NORA",
+    blurb: "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered...",
+    href: "/article/velocity-summit-2026-wrap-up",
+    image: "Ops-Summit-Tile.jpg",
+    date: "2026-11-13T00:00:00Z",
+    author: "",
   },
+
+
   {
     kind: "wide",
     left: 0,
@@ -244,6 +249,46 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     image: "Complexity-Economy-Tile.jpg",
     date: "2026-06-10T00:00:00Z",
     author: "Feedonomics",
+  },
+];
+
+export const EDITORIAL_ARTICLES_FEATURED_POV: GCard[] = [
+  {
+    kind: "tall",
+    left: 0,
+    top: 0,
+    blurb:
+      "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
+    title: "The diplomat behind Australia’s live selling boom",
+    href: "/article/the-diplomat-behind-australias-live-selling-boom",
+    image: "Whatnot-Tile.jpg",
+    date: "2026-11-09T00:00:00Z",
+    textColor: "white",
+  },
+  {
+    kind: "wide",
+    left: 0,
+    top: 0,
+    blurb:
+      "Purpose can no longer be peripheral it must become essential.",
+    title: "Bridging worlds to thrive",
+    href: "/article/bridging-worlds-to-thrive/",
+    author: "Featured writer: Jeremy Meltzer, founder & CEO, i=Change",
+    image: "Bridging-Worlds-That-Thrive-Tile(1).jpg",
+    date: "2026-08-21T00:00:00Z",
+    textColor: "black",
+  },
+    {
+    kind: "tall",
+    left: 0,
+    top: 0,
+    blurb:
+      "Technology challenges us to assert our human values, which means that first of all, we have to figure out what they are.",
+    title: "An analogue lens in a digital AI world",
+    href: "/article/an-analogue-lens-in-a-digital-ai-world",
+    image: "Analog-lens-Tile.jpg",
+    date: "2026-06-10T00:00:00Z",
+    textColor: "white",
   },
 ];
 
@@ -268,9 +313,9 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     top: 0,
     blurb:
       "Agentic AI has moved past the demonstration stage in retail. A look at five operational...",
-    caption: "Putting AI agents to work for multi-location brands",
-    title: "Putting AI agents to work for multi-location brands",
-    href: "/article/putting-ai-agents-to-work-for-multi-location-brands",
+    caption: "From Tools to Agents",
+    title: "From Tools to Agents",
+    href: "/article/from-tools-to-agents",
     author: "In collaboration with Birdeye",
     image: "Birdeye-Tile.jpg",
     date: "2026-11-04T00:00:00Z",
@@ -380,5 +425,17 @@ export const EDITORIAL_ARTICLES_INTELLIGENCE: GCard[] = [
     image: "state-of-ai-tile.jpg",
     date: "2026-09-15T12:00:00+08:00",
     author: "In collaboration with Shopify"
+  },
+    {
+    kind: "tall",
+    left: 0,
+    top: 0,
+    blurb: "Global retail leaders meeting in Berlin delivered a message that will resonate strongly in Australia",
+    caption: "Retail at a turning point",
+    title: "Retail at a turning point",
+    href: "/article/retail-at-a-turning-point",
+    image: "retail-tile.jpg",
+    date: "2026-07-25T00:00:00Z",
+    author: "Peter Knock, NORA Berlin correspondent",
   },
 ];

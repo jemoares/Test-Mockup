@@ -2,7 +2,12 @@
 
 import { useState, useEffect } from "react";
 import { usePathname } from "next/navigation";
-import { EDITORIAL_ARTICLES_1, EDITORIAL_ARTICLES_INTELLIGENCE } from "./constants";
+import {
+  EDITORIAL_ARTICLES_FEATURED_POV,
+  EDITORIAL_ARTICLES_1,
+  EDITORIAL_ARTICLES_INTELLIGENCE,
+} from "./constants";
+
 
 const LAST_PATH_KEY = "nora_last_path";
 
@@ -10,6 +15,7 @@ const BACK_LABELS: Record<string, string> = {
   "/": "NORA Edit",
   "/channel/in-collaboration": "In collaboration",
   "/channel/the-intelligence-unit": "The intelligence unit",
+  "/channel/featured-pov": "Featured POV",
 };
 
 // Articles that live inside a channel resolve back to that channel's label.

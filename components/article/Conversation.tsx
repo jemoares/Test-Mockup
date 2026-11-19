@@ -42,10 +42,10 @@ const FEATURED_RELATED: GCard[] = [
     left: 0,
     top: 0,
     blurb:
-      "Agentic AI has moved past the demonstration stage in retail. A look at five operational jobs agents are being given today and what separates a good first candidate",
-    caption: "Putting AI agents to work for multi-location brands",
+      "Birdeye’s Tony Van-Eyk on AI visibility, reviews and where retail leaders should start",
+    caption: "From Tools to Agents",
     title: "The state of AI in retail",
-    href: "/article/putting-ai-agents-to-work-for-multi-location-brands",
+    href: "/article/from-tools-to-agents",
     image: "state-of-ai-tile.jpg",
   },
 ];

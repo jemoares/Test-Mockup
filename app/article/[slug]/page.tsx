@@ -23,12 +23,13 @@ const ARTICLES = [
   { slug: "what-ai-in-retail-needs-from-the-systems-underneath-it", title: "What AI in retail needs from the systems underneath it", contentKey: "article4" },
   { slug: "powerful-partnerships", title: "Powerful Partnerships: The End of the Hero Retailer", contentKey: "article5" },
   { slug: "next-gen-purpose", title: "Next Gen Purpose: Why Younger Consumers Are Redefining Success", contentKey: "article6" },
-  {slug: "putting-ai-agents-to-work-for-multi-location-brands", title: "Putting AI agents to work for multi-location brands", contentKey: "article14"},
+  {slug: "from-tools-to-agents", title: "From Tools to Agents", contentKey: "article14"},
   {slug: "retail-at-a-turning-point", title: "Retail at a turning point", contentKey: "article15"},
   {slug: "the-diplomat-behind-australias-live-selling-boom", contentKey: "article16"},
   {slug: "the-great-retail-decoupling", title: "The Great Retail Decoupling", contentKey: "article17"},
   {slug: "the-state-of-ai-in-retail", title: "The State of AI in Retail", contentKey: "article18"},
-  { slug: "performance-trap", title: "The performance trap: what an uneven marketing split costs Australian retailers", contentKey: "article19" }
+  { slug: "performance-trap", title: "The performance trap: what an uneven marketing split costs Australian retailers", contentKey: "article19" },
+  { slug: "bridging-worlds-to-thrive", title: "Bridging worlds to thrive", contentKey: "article20" }
 ];
 
 export function generateStaticParams() {

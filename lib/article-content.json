@@ -1257,14 +1257,13 @@
     ]
   },
   "article14": {
-  "title": "Putting AI agents to work for multi-location brands",
-  "hero": {
-    "category": "",
-    "headline": "Putting AI agents to work for multi-location brands",
-    "subtitle": "Birdeye builds AI agents that do the work for multi-location brands, from replying to every social comment to tracking a brand’s visibility across 6,500 AI prompts.",
-    "byline": "In collaboration with Birdeye",
-    "meta": "04 Nov 2026 • Video podcast",
-    "heroImage": "Birdeye-hero-image-Article.jpg"
+    "title": "From Tools to Agents",
+    "hero": {
+      "headline": "From Tools to Agents",
+      "subtitle": "Birdeye’s Tony Van-Eyk on AI visibility, reviews and where retail leaders should start",    
+      "byline": "In collaboration with Birdeye",
+      "meta": "04 Nov 2026 • Video podcast",
+      "heroImage": "Birdeye-hero-image-Article.jpg"
   },
   "sections": [
     {
@@ -1784,6 +1783,128 @@
       {
         "type": "paragraph",
         "content": "Every retailer decides how much more to pay for customers who leave for a 5 percent discount. Brand equity decides how many of them stay."
+      }
+    ]
+  },
+    "article20": {
+    "title": "Bridging worlds to thrive",
+    "hero": {
+      "category": "RETAIL &middot; STRATEGY",
+      "headline": "Bridging worlds to thrive",
+      "subtitle": "&quot;Purpose can no longer be peripheral it must become essential.&quot;",
+      "byline": "By Jeremy Meltzer, founder & CEO, i=Change",
+      "meta": "21 AUGUST 2026  •  5 MIN READ",
+      "heroImage": "Featured-POV-hero.jpg",
+      "portrait": "jeremy-meltzer.png"
+    },
+    "sections": [
+      {
+        "type": "image",
+        "src": "bridging-2.jpg",
+        "alt": "",
+        "parralaxRange": 24,
+        "quote": false
+      },
+      {
+        "type": "paragraph",
+        "content": "or decades, business has operated under a singular mandate - maximize short-term shareholder value at all costs. Social and environmental consequences are someone else&rsquo;s problem.",
+        "dropCap": "F"
+      },
+      {
+        "type": "paragraph",
+        "content": "This version of business began as an idea, which enough of us accepted until it was considered normal."
+      },
+      {
+        "type": "paragraph",
+        "content": "Yet &lsquo;normal&rsquo; has come with enormous cost."
+      },
+      {
+        "type": "paragraph",
+        "content": "This opens the tantalising opportunity for a new idea, a new normal that updates how we do business - and why."
+      },
+      {
+        "type": "paragraph",
+        "content": "As retail falters, a new idea is already emerging that could make retail &lsquo;hyper relevant&rsquo; and achieve the growth it seeks, but it must reflect the need of our time. It must reflect what we as individuals - and consumers - increasingly care about; living in healthy communities in reciprocity with a thriving natural environment that sustains life for all."
+      },
+      {
+        "type": "paragraph",
+        "content": "Yet to achieve this - to put it simply - we must grow up."
+      },
+      {
+        "type": "paragraph",
+        "content": "For what is shiny cannot fill the hole. It never could and never will."
+      },
+      {
+        "type": "paragraph",
+        "content": "Yet while the archetypal yearning to contribute to something bigger than ourselves is alive in us, it seems only few business leaders understand the power of engaging customers with head and heart. When integrated with authenticity and transparency, their businesses thrive."
+      },
+      {
+        "type": "paragraph",
+        "content": "If retail is &lsquo;just&rsquo; a transaction at an agreed value exchange; I receive a shirt, you receive money, and not much else matters, it seems inevitable we would arrive at this point in our timeline. For just across the horizon, our current model of consumption, reliant upon manufactured desires is becoming irrelevant."
+      },
+      {
+        "type": "paragraph",
+        "content": "We know this in our hearts, but if our heads need validation, it&rsquo;s in rising costs per acquisition, consumer burnout and sales overwhelm. Alongside anxiety-causing awareness of environmental challenges, we&rsquo;re starting to check out - and not in the way retailers would like."
+      },
+      {
+        "type": "paragraph",
+        "content": "I remember my grandparents came from Europe with hand-cut suits and tailored dresses. Shopping was not a casual activity. It was an indulgence once a year. Money was spent on dinners with friends, travel, experiences, and saving for the grandchildren."
+      },
+      {
+        "type": "paragraph",
+        "content": "So how did we get from there to here?"
+      },
+      {
+        "type": "paragraph",
+        "content": "<img src=\"/assets/bridging-1.jpg\" alt=\"\" style=\"width:100%;height:auto;display:block;margin:12px 0;\" />"
+      },
+      {
+        "type": "paragraph",
+        "content": "Edward Bernays - credited as the grandfather of PR - worked from 1910 to the 1960s to shift advertising from functional need to unconscious emotional desire. Using ideas from his uncle, Sigmund Freud, he targeted irrational impulses, fear, and status."
+      },
+      {
+        "type": "paragraph",
+        "content": "Bernays realised it could be simple to link products to social identity. He famously framed women smoking cigarettes as &lsquo;torches of freedom&rsquo;, as a way to reclaim their power. By manipulating cultural norms and subconscious desires, products became symbols of personal expression. He effectively created modern consumerism, where buying became an act of self-fulfillment rather than practical necessity."
+      },
+      {
+        "type": "paragraph",
+        "content": "I doubt Bernays imagined the disparities of wealth and status his work would create. I wonder if he would regret its consequences, and impact on people and planet?"
+      },
+      {
+        "type": "paragraph",
+        "content": "So here we are."
+      },
+      {
+        "type": "paragraph",
+        "content": "It seems clear that &lsquo;purpose&rsquo; can no longer be peripheral, but must become essential. Consumers are responding powerfully to brands that make their purchases meaningful, with authentic storytelling that engages heads and hearts."
+      },
+      {
+        "type": "paragraph",
+        "content": "So as business leaders we have a choice. Like a slowly sinking ship, we can hold on to the same ideas - or we can be courageous, unleash the heroic spirit of business and in doing so, also unlock the growth we seek."
+      },
+      {
+        "type": "paragraph",
+        "content": "<img src=\"/assets/i=Change.jpg\" alt=\"\" style=\"width:100%;height:auto;display:block;margin:12px 0;\" />"
+      },
+      {
+        "type": "paragraph",
+        "content": "Today, customers expect the brands to have &lsquo;skin in the game&rsquo;, to be transparently giving to people and planet. Whether that&rsquo;s empowering women and girls, tackling climate change, or supporting local communities - purpose and profit have become mutually reinforcing drivers of business performance. It also builds visceral loyalty that traditional marketing cannot buy."
+      },
+      {
+        "type": "paragraph",
+        "content": "The businesses that thrive understand the power of this brand equity - they&rsquo;re building for legacy not only short-term sales. They&rsquo;re part of the solution."
+      },
+      {
+        "type": "paragraph",
+        "content": "I wonder what my grandparents would say, sitting in their tailored clothes next to their grandchildren dressed in the latest fashion?"
+      },
+      {
+        "type": "paragraph",
+        "content": "Let us not forget we are humans selling to humans, and we have been gathering around fires telling stories forever. Stories inspire us to action. We have an opportunity as an industry to tell a bigger story - and one that also builds a bigger business."
+      },
+      {
+        "type": "paragraph",
+        "content": "Yet it starts with us. Australian retail can emerge as a global leader of purpose-driven business. We can &lsquo;be the change&rsquo; we seek, steward thriving businesses that address the needs of the time, and build legacy brands of which we can be proud."
       }
     ]
   }
