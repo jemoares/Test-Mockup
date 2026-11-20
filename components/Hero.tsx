@@ -51,9 +51,30 @@ export function Hero() {
         }}
       >
         {/* Animated full-bleed background */}
-        <div style={{ position: "absolute", inset: 0 }}>
-          <VideoBg name="hero-tv" />
-        </div>
+<div style={{ position: "absolute", inset: 0, overflow: "hidden" }}>
+  {/* Background video shifted to the right */}
+  <div
+    style={{
+      position: "absolute",
+      inset: "-8%",
+      transform: "translateX(8%)",
+    }}
+  >
+    <VideoBg name="hero-tv-new" />
+  </div>
+
+  {/* Darkness focused on the text area */}
+  <div
+    aria-hidden
+    style={{
+      position: "absolute",
+      inset: 0,
+      background:
+        "linear-gradient(to right, rgba(0,0,0,0.60) 0%, rgba(0,0,0,0.38) 35%, rgba(0,0,0,0.12) 65%, rgba(0,0,0,0) 100%)",
+      pointerEvents: "none",
+    }}
+  />
+</div>
 
         {/* Top vignette for nav legibility (Figma Rectangle 49) */}
         <div
