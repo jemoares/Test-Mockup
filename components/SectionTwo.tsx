@@ -53,7 +53,7 @@ export function SectionTwo() {
         }}
       >
         <div style={{ position: "absolute", inset: 0 }}>
-          <VideoBg name="section2-portrait-new-1" style={{ objectPosition: "center" }} />
+          <VideoBg name="section2-portrait-new" style={{ objectPosition: "center" }} />
         </div>
 
         {/* Side darkening gradients (Figma Rectangle 51 / 52) */}
