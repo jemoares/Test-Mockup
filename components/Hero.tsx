@@ -167,7 +167,7 @@ export function Hero() {
             delay={1}
             style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1300) : r(500) }}
           >
-            <ReadLink href="/article/whatnot-live-selling-boom" style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />
+            <ReadLink href="/article/the-diplomat-behind-australias-live-selling-boom" style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />
           </Reveal>
 
         </div>
