@@ -233,7 +233,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     href: "/article/velocity-summit-2026-wrap-up",
     image: "Ops-Summit-Tile.jpg",
     date: "2026-11-13T00:00:00Z",
-    author: "Kieran Boyce",
+    author: "Kieran Boyce, Retail Fulfillment & Digital Operations Lead, MECCA",
   },
 
 
@@ -367,7 +367,7 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     href: "/article/velocity-summit-2026-wrap-up",
     image: "Ops-Summit-Tile.jpg",
     date: "2026-11-13T00:00:00Z",
-    author: "Kieran Boyce",
+    author: "Kieran Boyce, Retail Fulfillment & Digital Operations Lead, MECCA",
   },
   {
     kind: "wide",
