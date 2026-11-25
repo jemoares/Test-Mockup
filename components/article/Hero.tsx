@@ -29,9 +29,15 @@ export function Hero({ content }: { content: any }) {
     {/* Back to articles ------------------------------------------------ */}
       <Reveal delay={0.12} style={{ position: "relative", left: isMobile ? r(40) : r(60), top: isMobile ? r(50) : r(50) }}>
         <button className="arrow-link back" onClick={() => {
-          if (window.history.length > 1) router.back();
-          else router.push("/");
-        }} style={{ gap: r(24), background: "none", border: "none", padding: 0, cursor: "pointer" }}>
+        const params = new URLSearchParams(window.location.search);
+
+        // Keep existing behavior for channel navigation
+        if (window.history.length > 1) {
+          router.back();
+        } else {
+          router.push("/");
+        }
+      }} style={{ gap: r(24), background: "none", border: "none", padding: 0, cursor: "pointer" }}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img className="arrow" src={A("arrow-back.svg")} alt="" style={{ width: isMobile ? r(25) : r(16), 
               height: isMobile ? r(20) : r(9), transform: "rotate(180deg)" }} />

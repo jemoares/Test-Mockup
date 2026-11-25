@@ -178,7 +178,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     blurb:
       "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
     title: "The diplomat behind Australia’s live selling boom",
-    href: "/article/the-diplomat-behind-australias-live-selling-boom",
+    href: "/article/the-diplomat-behind-australias-live-selling-boom?from=home",
     author: "",
     image: "Whatnot-Tile.jpg",
     date: "2026-11-09T00:00:00Z",
@@ -192,7 +192,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
       "As retailers turn to AI to tackle recruitment pressures, Wingstop Australia...",
     title:
       "Can AI make recruitment more human? Wingstop Australia thinks so.",
-    href: "/article/what-ai-in-retail-needs-from-the-systems-underneath-it",
+    href: "/article/what-ai-in-retail-needs-from-the-systems-underneath-it?from=home",
     image: "Workday-Tile.jpg",
     date: "2026-11-02T00:00:00Z",
     author: "In collaboration with Workday"
@@ -204,7 +204,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     title: "The performance trap: what an uneven marketing split costs Australian retailers",
     blurb:
       "I was at a high-tech show in Las Vegas a few years ago. The latest high-resolution technology was on dazzling display.",
-    href: "/article/the-performance-trap/",
+    href: "/article/performance-trap/?from=home",
     author: "",
     image: "HRS-Tile.jpg",
     date: "2026-06-10T00:00:00Z",
@@ -218,7 +218,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     caption: "Industry Persectives",
     title: "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
     author: "In collaboration with Fujitsu",
-    href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner",
+    href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner?from=home",
     image: "Fujitsu-Tile.jpg",
     date: "2026-11-11T00:00:00Z",
     textColor: "black"
@@ -230,7 +230,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     title: "Velocity Summit 2026 Wrap-up",
     caption: "Behind the Scenes at NORA",
     blurb: "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered...",
-    href: "/article/velocity-summit-2026-wrap-up",
+    href: "/article/velocity-summit-2026-wrap-up?from=home",
     image: "Ops-Summit-Tile.jpg",
     date: "2026-11-13T00:00:00Z",
     author: "Kieran Boyce, Retail Fulfillment & Digital Operations Lead, MECCA",
@@ -245,7 +245,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
       "The retailers quietly \n building competitive advantage with Feedonomics ",
     caption: "Industry Persectives",
     title: "The complexity economy",
-    href: "/article/complexity-economy",
+    href: "/article/complexity-economy?from=home",
     image: "Complexity-Economy-Tile.jpg",
     date: "2026-06-10T00:00:00Z",
     author: "Feedonomics",
