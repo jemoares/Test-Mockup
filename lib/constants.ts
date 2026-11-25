@@ -448,7 +448,7 @@ export const EDITORIAL_ARTICLES_INTELLIGENCE: GCard[] = [
     title: "Global recommerce giants vying for dominance in Aussie market",
     href: "/article/global-recommerce-giants",
     image: "Recommerce-Tile.jpg",
-    date: "2026-11-25T12:00:00+08:00",
+    date: "2026-11-12T12:00:00+08:00",
     author: "Nina Hendy, lead journalist, NORA edit"
   },
 ];
