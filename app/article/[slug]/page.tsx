@@ -19,7 +19,7 @@ const ARTICLES = [
   { slug: "the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner", title: "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner", contentKey: "article10" },
   { slug: "velocity-summit-2026-wrap-up", title: "Velocity Summit 2026 Wrap-up", contentKey: "article11" },
   { slug: "can-ai-make-recruitment-more-human-wingstop-australia-thinks-so", title: "Can AI make recruitment more human? Wingstop Australia thinks so.", contentKey: "article12" },
-  { slug: "global-commerce-giants", contentKey: "article13" },
+  { slug: "global-recommerce-giants", title: "Global recommerce giants vying for dominance in Aussie market", contentKey: "article13" },
   { slug: "what-ai-in-retail-needs-from-the-systems-underneath-it", title: "What AI in retail needs from the systems underneath it", contentKey: "article4" },
   { slug: "powerful-partnerships", title: "Powerful Partnerships: The End of the Hero Retailer", contentKey: "article5" },
   { slug: "next-gen-purpose", title: "Next Gen Purpose: Why Younger Consumers Are Redefining Success", contentKey: "article6" },

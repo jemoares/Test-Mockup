@@ -233,7 +233,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     href: "/article/velocity-summit-2026-wrap-up",
     image: "Ops-Summit-Tile.jpg",
     date: "2026-11-13T00:00:00Z",
-    author: "",
+    author: "Kieran Boyce",
   },
 
 
@@ -367,7 +367,7 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     href: "/article/velocity-summit-2026-wrap-up",
     image: "Ops-Summit-Tile.jpg",
     date: "2026-11-13T00:00:00Z",
-    author: "",
+    author: "Kieran Boyce",
   },
   {
     kind: "wide",
@@ -437,5 +437,18 @@ export const EDITORIAL_ARTICLES_INTELLIGENCE: GCard[] = [
     image: "retail-tile.jpg",
     date: "2026-07-25T00:00:00Z",
     author: "Peter Knock, NORA Berlin correspondent",
+  },
+    {
+    kind: "wide",
+    left: 0,
+    top: 0,
+    blurb:
+      "The rise of tech-savvy recommerce platforms with gamification built in...",
+    caption: "Global recommerce giants vying for dominance in Aussie market",
+    title: "Global recommerce giants vying for dominance in Aussie market",
+    href: "/article/global-recommerce-giants",
+    image: "Recommerce-Tile.jpg",
+    date: "2026-11-25T12:00:00+08:00",
+    author: "Nina Hendy, lead journalist, NORA edit"
   },
 ];
