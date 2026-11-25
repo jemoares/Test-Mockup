@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { usePathname, useSearchParams } from "next/navigation";
+import { usePathname } from "next/navigation";
 import {
   EDITORIAL_ARTICLES_FEATURED_POV,
   EDITORIAL_ARTICLES_1,
@@ -35,15 +35,17 @@ const norm = (p: string) => p.replace(/\/+$/, "") || "/";
 // on direct loads where there is no tracked previous page.
 export function useBackLabel(record = true): string {
   const pathname = usePathname();
-  const searchParams = useSearchParams();
-  const fromHome = searchParams.get("from") === "home";
   const path = pathname ? norm(pathname) : "";
 
   const resolve = (): string => {
   if (typeof window === "undefined") return "NORA Edit";
 
-  // Homepage navigation takes priority over the owning channel
-  if (fromHome) return "NORA Edit";
+  // Check if the article was opened from the homepage
+  const params = new URLSearchParams(window.location.search);
+
+  if (params.get("from") === "home") {
+    return "NORA Edit";
+  }
 
   if (OWNING_CHANNEL[path]) return OWNING_CHANNEL[path];
 
@@ -54,9 +56,9 @@ export function useBackLabel(record = true): string {
   const [label, setLabel] = useState<string>("NORA Edit");
 
   useEffect(() => {
-    if (typeof window === "undefined") return;
-    setLabel(resolve());
-  }, [path, fromHome]);
+  if (typeof window === "undefined") return;
+  setLabel(resolve());
+  }, [path]);
 
   useEffect(() => {
     if (!record || typeof window === "undefined") return;
