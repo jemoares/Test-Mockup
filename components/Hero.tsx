@@ -54,14 +54,17 @@ export function Hero() {
 <div style={{ position: "absolute", inset: 0, overflow: "hidden" }}>
   {/* Background video shifted to the right */}
   <div
-    style={{
-      position: "absolute",
-      inset: "-8%",
-      transform: "translateX(8%)",
-    }}
-  >
-    <VideoBg name="hero-tv-new" />
-  </div>
+  style={{
+    position: "absolute",
+    top: "-8%",
+    right: "-8%",
+    bottom: "-8%",
+    left: "-14%",
+    transform: "translateX(8%)",
+  }}
+>
+  <VideoBg name="hero-tv-new" />
+</div>
 
   {/* Darkness focused on the text area */}
   <div
@@ -165,7 +168,7 @@ export function Hero() {
           {/* READ ARTICLE (with divider) — builds third, beneath the paragraph */}
           <Reveal
             delay={1}
-            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1300) : r(500) }}
+            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1700) : r(550) }}
           >
           <ReadLink href="/article/the-future-of-shopping-might-look-a-lot-like-its-past?from=home" style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />          </Reveal>
 
