@@ -220,7 +220,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     author: "In collaboration with Fujitsu",
     href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner?from=home",
     image: "Fujitsu-Tile.jpg",
-    date: "2026-11-11T00:00:00Z",
+    date: "2026-11-16T00:00:00Z",
     textColor: "black"
   },
   {
@@ -232,7 +232,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     blurb: "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered...",
     href: "/article/velocity-summit-2026-wrap-up?from=home",
     image: "Ops-Summit-Tile.jpg",
-    date: "2026-11-13T00:00:00Z",
+    date: "2026-11-17T00:00:00Z",
     author: "Kieran Boyce, Retail Fulfillment & Digital Operations Lead, MECCA",
   },
 
@@ -345,7 +345,7 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     author: "In collaboration with Fujitsu",
     href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner",
     image: "Fujitsu-Tile.jpg",
-    date: "2026-11-11T00:00:00Z",
+    date: "2026-11-16T00:00:00Z",
     textColor: "black"
   },
   // {
@@ -367,7 +367,7 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     blurb: "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered...",
     href: "/article/velocity-summit-2026-wrap-up",
     image: "Ops-Summit-Tile.jpg",
-    date: "2026-11-13T00:00:00Z",
+    date: "2026-11-17T00:00:00Z",
     author: "Kieran Boyce, Retail Fulfillment & Digital Operations Lead, MECCA",
   },
   {
