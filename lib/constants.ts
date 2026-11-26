@@ -176,9 +176,9 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     left: 0,
     top: 0,
     blurb:
-      "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
-    title: "The diplomat behind Australia’s live selling boom",
-    href: "/article/the-diplomat-behind-australias-live-selling-boom?from=home",
+      "As live selling gains momentum in Australia, Whatnot's Alex McCauley believes the next evolution...",
+    title: "The future of shopping might look a lot like its past",
+    href: "/article/the-future-of-shopping-might-look-a-lot-like-its-past?from=home",
     author: "",
     image: "Whatnot-Tile.jpg",
     date: "2026-11-09T00:00:00Z",
@@ -192,7 +192,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
       "As retailers turn to AI to tackle recruitment pressures, Wingstop Australia...",
     title:
       "Can AI make recruitment more human? Wingstop Australia thinks so.",
-    href: "/article/what-ai-in-retail-needs-from-the-systems-underneath-it?from=home",
+    href: "/article/can-ai-make-recruitment-more-human-wingstop-australia-thinks-so?from=home",
     image: "Workday-Tile.jpg",
     date: "2026-11-02T00:00:00Z",
     author: "In collaboration with Workday"
@@ -216,7 +216,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     blurb:
       "Why the right solution partner matters as much as the platform",
     caption: "Industry Persectives",
-    title: "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
+    title: "The next generation of POS: What Australian retailers need from their technology partner",
     author: "In collaboration with Fujitsu",
     href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner?from=home",
     image: "Fujitsu-Tile.jpg",
@@ -227,7 +227,7 @@ export const EDITORIAL_ARTICLES: GCard[] = [
     kind: "tall",
     left: 0,
     top: 0,
-    title: "Velocity Summit 2026 Wrap-up",
+    title: "Velocity summit 2026 wrap-up",
     caption: "Behind the Scenes at NORA",
     blurb: "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered...",
     href: "/article/velocity-summit-2026-wrap-up?from=home",
@@ -258,12 +258,13 @@ export const EDITORIAL_ARTICLES_FEATURED_POV: GCard[] = [
     left: 0,
     top: 0,
     blurb:
-      "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
-    title: "The diplomat behind Australia’s live selling boom",
-    href: "/article/the-diplomat-behind-australias-live-selling-boom",
+      "As live selling gains momentum in Australia, Whatnot's Alex McCauley believes the next evolution...",
+    title: "The future of shopping might look a lot like its past",
+    href: "/article/the-future-of-shopping-might-look-a-lot-like-its-past?from=home",
+    author: "",
     image: "Whatnot-Tile.jpg",
     date: "2026-11-09T00:00:00Z",
-    textColor: "white",
+    textColor: "white"
   },
   {
     kind: "wide",
@@ -340,7 +341,7 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     blurb:
       "Why the right solution partner matters as much as the platform",
     caption: "Industry Persectives",
-    title: "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
+    title: "The next generation of POS: What Australian retailers need from their technology partner",
     author: "In collaboration with Fujitsu",
     href: "/article/the-next-generation-of-pos-what-australian-retailers-need-from-their-technology-partner",
     image: "Fujitsu-Tile.jpg",
@@ -361,7 +362,7 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     kind: "tall",
     left: 0,
     top: 0,
-    title: "Velocity Summit 2026 Wrap-up",
+    title: "Velocity summit 2026 wrap-up",
     caption: "Behind the Scenes at NORA",
     blurb: "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered...",
     href: "/article/velocity-summit-2026-wrap-up",

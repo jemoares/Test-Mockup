@@ -25,7 +25,7 @@ const ARTICLES = [
   { slug: "next-gen-purpose", title: "Next Gen Purpose: Why Younger Consumers Are Redefining Success", contentKey: "article6" },
   {slug: "from-tools-to-agents", title: "From Tools to Agents", contentKey: "article14"},
   {slug: "retail-at-a-turning-point", title: "Retail at a turning point", contentKey: "article15"},
-  {slug: "the-diplomat-behind-australias-live-selling-boom", contentKey: "article16"},
+  {slug: "the-future-of-shopping-might-look-a-lot-like-its-past", title: "The future of shopping might look a lot like its past", contentKey: "article16"},
   {slug: "the-great-retail-decoupling", title: "The Great Retail Decoupling", contentKey: "article17"},
   {slug: "the-state-of-ai-in-retail", title: "The State of AI in Retail", contentKey: "article18"},
   { slug: "performance-trap", title: "The performance trap: what an uneven marketing split costs Australian retailers", contentKey: "article19" },

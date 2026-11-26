@@ -723,10 +723,10 @@
     ]
   },
   "article10": {
-  "title": "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
+  "title": "The next generation of POS: What Australian retailers need from their technology partner",
   "hero": {
     "category": "",
-    "headline": "The Next Generation of POS: What Australian Retailers Need from Their Technology Partner",
+    "headline": "The next generation of POS: What Australian retailers need from their technology partner",
     "subtitle": "Why the right solution partner matters as much as the platform",
     "byline": "In collaboration with Fujitsu",
     "meta": "11 Nov 2026 • Video podcast",
@@ -783,11 +783,11 @@
 },
  
 "article11": {
-  "title": "Velocity Summit 2026 Wrap-up",
+  "title": "Velocity summit 2026 wrap-up",
   "hero": {
     "category": "",
-    "headline": "Velocity Summit 2026 Wrap-up",
-    "subtitle": "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered for the first Operations Leaders’ Velocity Summit. Kieran Boyce shares what stuck with him, and why honest conversations about what went wrong are worth more than the highlight reel.",
+    "headline": "Velocity summit 2026 wrap-up",
+    "subtitle": "More than 120 operations, supply chain, fulfilment and last-mile leaders gathered for the first operations leaders’ velocity summit. Kieran Boyce shares what stuck with him, and why honest conversations about what went wrong are worth more than the highlight reel.",
     "portrait": "kieran-boyce.png",
     "byline": "By Kieran Boyce, Retail Fulfillment & Digital Operations Lead, MECCA",
     "meta": "13 Nov 2026 • 6 min read",
@@ -1388,136 +1388,208 @@
     ]
   },
 "article16": {
-  "title": "The diplomat behind Australia’s live selling boom",
+  "title": "The future of shopping might look a lot like its past",
   "hero": {
     "category": "",
-    "headline": "The diplomat behind Australia’s live selling boom",
-    "subtitle": "Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.",
+    "headline": "The future of shopping might look a lot like its past",
+    "subtitle": "As live selling gains momentum in Australia, Whatnot's Alex McCauley believes the next evolution of e-commerce could bring the missing human connection back to retail.",
     "byline": "",
     "meta": "09 NOVEMBER 2026  •  3 MIN READ",
     "heroImage": "whatnot-hero.jpg"
   },
-  "sections": [
-    {
-      "type": "paragraph",
-      "content": "ustralia’s retailers have spent two decades learning how to sell online.",
-      "dropCap": "A"
-    },
-    {
-      "type": "paragraph",
-      "content": "Now a new generation of platforms is asking them to sell live."
-    },
-    {
-      "type": "paragraph",
-      "content": "At the centre of that change is Alex McCauley, a former Australian diplomat who leads the local operations of Whatnot, a live-shopping platform betting that the future of e-commerce looks like a conversation."
-    },
-    {
-      "type": "paragraph",
-      "content": "The idea recently faced a real test in Sydney."
-    },
-    {
-      "type": "paragraph",
-      "content": "At Paddington Town Hall, during a Romance Was Born warehouse sale, a Whatnot employee waited to make the case for live selling."
-    },
-    {
-      "type": "paragraph",
-      "content": "She’d heard the label’s general manager would arrive to help set up the sale, so she stayed until she was given five minutes to make the case for going live on the platform."
-    },
-    {
-      "type": "paragraph",
-      "content": "The label put out its leftover stock, the employee went live with just a ring light and an iphone and two hours later, the label had matched a full day of warehouse sales, with the weakest stock left."
-    },
-    {
-      "type": "paragraph",
-      "content": "Her boss, Alex McCauley, general manager of Whatnot Australia, says Australian buyers have taken to live selling fast."
-    },
-    {
-      "type": "paragraph",
-      "content": "“I think it was better than my plan,” he says."
-    },
-    {
-      "type": "paragraph",
-      "content": "“There was just this immediate appetite here,” McCauley says, speaking of the cards and collectables that launched the platform."
-    },
-    {
-      "type": "paragraph",
-      "content": "McCauley reached Whatnot after a career that began in law and took him to Tel Aviv as an Australian diplomat."
-    },
-    {
-      "type": "paragraph",
-      "content": "He later helped found the Tech Council of Australia, which launched in 2021 with 25 member companies where he spent 18 months persuading companies to back a single voice for Australian tech."
-    },
-    {
-      "type": "paragraph",
-      "content": "At Whatnot, he leads a local team that has grown from three people to 20 since September 2025, a platform he says relies heavily on its legacy of being community driven."
-    },
-    {
-      "type": "paragraph",
-      "content": "Whatnot began with Funko Pops, grew into trading cards and sports cards, and opened to Australian sellers on 13 October 2024 at a trading card show in Melbourne. Women’s fashion is now the category McCauley sees as the next big market. A seller goes live with a table of stock, picks up the next item and starts the bidding at $1, and buyers gather in a room with people who share their interest."
-    },
-    {
-      "type": "image",
-      "layout": "inline",
-      "src": "whatnot-body.jpg",
-      "alt": "A seller holding up a box while selling live on a phone"
-    },
-    {
-      "type": "paragraph",
-      "content": "McCauley’s case to the industry starts in store."
-    },
-    {
-      "type": "paragraph",
-      "content": "“People visit a store for the conversation” he says"
-    },
-    {
-      "type": "paragraph",
-      "content": "“Unfortunately the economics of retail have squeezed that conversation thin.”"
-    },
-    {
-      "type": "paragraph",
-      "content": "He also reads retail’s past as a guide to what comes next."
-    },
-    {
-      "type": "paragraph",
-      "content": "Twenty years ago, he says, many retailers expected a few online specialists to handle e-commerce while everyone else kept trading in store."
-    },
-    {
-      "type": "paragraph",
-      "content": "They built websites so customers could find them and left the selling to someone else, then shoppers grew comfortable, and a retailer without an online store became hard to imagine."
-    },
-    {
-      "type": "paragraph",
-      "content": "He goes back further to the 90s, when people predicted that furniture and cars would stay offline. Those buyers moved too, once a destination earned their trust and a new generation grew up using it. Whatnot’s chief revenue officer made the same point in a presentation in the US a few weeks ago, and McCauley sees live selling at that same early moment in its story."
-    },
-    {
-      "type": "paragraph",
-      "content": "McCauley looks well past Whatnot’s origin story of cards and geek culture collectibles."
-    },
-    {
-      "type": "paragraph",
-      "content": "He says Whatnot is currently building a separate section of the app for premium goods and he expects rare pieces, art and antiques to find their way onto the platform."
-    },
-    {
-      "type": "paragraph",
-      "content": "He is pushing his colleagues in the US to add houses, and he says it’s just a matter of time before live online house auctions become the norm."
-    },
-    {
-      "type": "paragraph",
-      "content": "Diplomacy gave him the skills for building a market from scratch. Just as diplomats learn to earn trust from people who see the world differently, McCauley works to earn the trust of retailers who are weighing a new channel."
-    },
-    {
-      "type": "paragraph",
-      "content": "His advice? Make the first step."
-    },
-    {
-      "type": "paragraph",
-      "content": "“Forget about making it perfect.”"
-    },
-    {
-      "type": "paragraph",
-      "content": "“Each time the industry changed, the move online looked optional, it was shoppers who decided when it became ordinary. The room fills around the people who are already in it.”"
-    }
-  ]
+"sections": [
+  {
+    "type": "paragraph",
+    "dropCap": "A",
+    "content": "Australia’s retailers have spent two decades learning how to sell online."
+  },
+  {
+    "type": "paragraph",
+    "content": "Now a new generation of platforms is asking them to sell live."
+  },
+  {
+    "type": "paragraph",
+    "content": "It's a trend that might seem counterintuitive in an increasingly digital world. While online shopping has made buying almost anything easier than ever, conversations, personal connections and a sense of community that once defined the retail experience can sometimes get lost along the way."
+  },
+  {
+    "type": "paragraph",
+    "content": "Live commerce is attempting to bring those elements back, combining the convenience of e-commerce with the spontaneity and interaction of shopping in person."
+  },
+  {
+    "type": "paragraph",
+    "content": "And if history is any indication, the retailers who are sceptical today may eventually find themselves playing catch-up."
+  },
+  {
+    "type": "paragraph",
+    "content": "Speaking at a recent industry gathering in Sydney, Whatnot Australia's general manager Alex McCauley drew parallels between the emergence of live selling and the early days of e-commerce."
+  },
+  {
+    "type": "paragraph",
+    "content": "Twenty years ago, he observed, many retailers expected a handful of online specialists to dominate digital shopping while traditional businesses continued trading in physical stores."
+  },
+  {
+    "type": "paragraph",
+    "content": "Some built websites simply to establish an online presence, without necessarily expecting them to become significant sales channels."
+  },
+  {
+    "type": "paragraph",
+    "content": "But consumer behaviour changed."
+  },
+  {
+    "type": "paragraph",
+    "content": "As shoppers became increasingly comfortable buying online, having an e-commerce presence moved from an optional extra to an essential part of doing business."
+  },
+  {
+    "type": "paragraph",
+    "content": "McCauley pointed to earlier assumptions that products such as furniture and cars would never successfully transition to online sales."
+  },
+  {
+    "type": "paragraph",
+    "content": "Over time, those expectations changed too, as consumers developed trust in digital platforms and younger generations embraced new ways of shopping."
+  },
+  {
+    "type": "paragraph",
+    "content": "Today, he sees live commerce at a similarly formative stage."
+  },
+  {
+    "type": "paragraph",
+    "content": "The concept is relatively simple. A seller goes live with a collection of products, introduces each item and invites viewers to participate in real-time bidding."
+  },
+  {
+    "type": "paragraph",
+    "content": "But unlike traditional e-commerce, where the experience is often solitary and transactional, live selling creates an opportunity for interaction between sellers and buyers, and among shoppers themselves."
+  },
+  {
+    "type": "image",
+    "layout": "inline",
+    "src": "whatnot-body.jpg",
+    "alt": "Live selling and shopping through Whatnot."
+  },
+  {
+    "type": "paragraph",
+    "content": "“People visit a store for the conversation,” McCauley told attendees."
+  },
+  {
+    "type": "paragraph",
+    "content": "“Unfortunately the economics of retail have squeezed that conversation thin.”"
+  },
+  {
+    "type": "paragraph",
+    "content": "It's an observation that speaks to a broader tension facing traditional retailers."
+  },
+  {
+    "type": "paragraph",
+    "content": "As shopping has become increasingly digital, the human interaction that once defined the retail experience has become harder to replicate."
+  },
+  {
+    "type": "paragraph",
+    "content": "For platforms such as Whatnot, which began with Funko Pops before expanding into trading cards and sports cards, community has been central to the experience."
+  },
+  {
+    "type": "paragraph",
+    "content": "The platform opened to Australian sellers in October 2024 at a trading card show in Melbourne, initially attracting buyers and sellers united by shared interests."
+  },
+  {
+    "type": "paragraph",
+    "content": "“There was just this immediate appetite here,” McCauley said, reflecting on the early response from Australian consumers."
+  },
+  {
+    "type": "paragraph",
+    "content": "While collectables helped establish its audience, categories such as women's fashion are opening up new possibilities for live commerce."
+  },
+  {
+    "type": "paragraph",
+    "content": "One example McCauley shared involved Australian fashion label Romance Was Born."
+  },
+  {
+    "type": "paragraph",
+    "content": "During a warehouse sale at Sydney's Paddington Town Hall, a Whatnot employee was determined to demonstrate the potential of live selling."
+  },
+  {
+    "type": "paragraph",
+    "content": "Having heard that the label's general manager would be arriving to help set up the sale, she waited for an opportunity to pitch the idea."
+  },
+  {
+    "type": "paragraph",
+    "content": "Eventually, she was given five minutes to make her case."
+  },
+  {
+    "type": "paragraph",
+    "content": "The label put out its leftover stock, the employee went live with little more than a ring light and an iPhone and, two hours later, the live sale had matched a full day of warehouse sales, with the weakest stock left."
+  },
+  {
+    "type": "paragraph",
+    "content": "“I think it was better than my team’s plan,” McCauley said."
+  },
+  {
+    "type": "paragraph",
+    "content": "The anecdote illustrates the potential for live commerce to turn what might otherwise be a conventional retail transaction into something more immediate and engaging."
+  },
+  {
+    "type": "paragraph",
+    "content": "For retailers, it also speaks to what happens when the shopping experience becomes as important as the product itself."
+  },
+  {
+    "type": "paragraph",
+    "content": "McCauley's perspective on changing industries has been shaped by an unconventional career."
+  },
+  {
+    "type": "paragraph",
+    "content": "Before leading Whatnot's Australian operations, he worked in law, served as an Australian diplomat in Tel Aviv and helped establish the Tech Council of Australia, which launched in 2021 with 25 member companies."
+  },
+  {
+    "type": "paragraph",
+    "content": "His experience persuading businesses to embrace a collective vision offers an interesting parallel to the challenge facing emerging retail platforms today."
+  },
+  {
+    "type": "paragraph",
+    "content": "Introducing a new way of doing business requires more than technology. It demands trust, relationships and a willingness to challenge established thinking."
+  },
+  {
+    "type": "paragraph",
+    "content": "And while the technology behind live commerce may be new to many Australian retailers, the underlying appeal is anything but."
+  },
+  {
+    "type": "paragraph",
+    "content": "For generations, shopping was as much a social experience as a commercial one. From market stalls to neighbourhood boutiques, the exchange between seller and customer was often part of what made the experience memorable."
+  },
+  {
+    "type": "paragraph",
+    "content": "Live selling offers a digital interpretation of that familiar dynamic."
+  },
+  {
+    "type": "paragraph",
+    "content": "It also challenges the assumption that progress in retail must always mean greater automation, fewer interactions and increasingly frictionless transactions."
+  },
+  {
+    "type": "paragraph",
+    "content": "Perhaps the next evolution of e-commerce won't be about removing people from the shopping experience, but finding new ways to bring them together."
+  },
+  {
+    "type": "paragraph",
+    "content": "For businesses curious about live selling but uncertain about where to begin, McCauley's advice at the gathering was simple."
+  },
+  {
+    "type": "paragraph",
+    "content": "“Forget about making it perfect.”"
+  },
+  {
+    "type": "paragraph",
+    "content": "It's a sentiment that captures a lesson from the history of retail innovation."
+  },
+  {
+    "type": "paragraph",
+    "content": "New ways of doing business rarely arrive fully formed, and the businesses willing to experiment are often the first to understand their potential."
+  },
+  {
+    "type": "paragraph",
+    "content": "After all, the future of shopping may not be decided by the retailers who perfect the technology, but by the customers who decide how they want to use it."
+  },
+  {
+    "type": "paragraph",
+    "content": "And increasingly, those customers may be looking for something that shopping has always offered at its best, a conversation."
+  }
+]
 },
   "article17": {
     "title": "The great retail decoupling",

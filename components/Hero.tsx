@@ -123,9 +123,9 @@ export function Hero() {
                 whiteSpace: isMobile ? "normal" : "nowrap",
               }}
             >
-              The diplomat behind<br/>
-              Australia’s live selling<br/>
-              boom
+              The future of shopping<br/>
+              might look a lot like its<br/>
+              past
             </h1>
           </Reveal>
 
@@ -145,7 +145,7 @@ export function Hero() {
                 fontWeight: 400,
               }}
             >
-            Whatnot Australia’s Alex McCauley has seen retail change before, and he thinks live selling comes next.
+            As live selling gains momentum in Australia, Whatnot's Alex McCauley believes the next evolution of e-commerce could bring the missing human connection back to retail.
             </p>
             <img
               src={asset("/assets/NOR0001_Swiggle5-Violet_1080x1080PX.gif")}
@@ -167,7 +167,7 @@ export function Hero() {
             delay={1}
             style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1300) : r(500) }}
           >
-          <ReadLink href="/article/the-diplomat-behind-australias-live-selling-boom?from=home" style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />          </Reveal>
+          <ReadLink href="/article/the-future-of-shopping-might-look-a-lot-like-its-past?from=home" style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />          </Reveal>
 
         </div>
       </section>
