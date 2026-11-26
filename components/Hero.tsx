@@ -126,9 +126,20 @@ export function Hero() {
                 whiteSpace: isMobile ? "normal" : "nowrap",
               }}
             >
-              The future of shopping<br/>
-              might look a lot like its<br/>
-              past
+              {isMobile ? (
+         <>
+            The future of<br />
+            shopping<br />
+            might look a lot<br />
+            like its past<br />
+          </>
+        ) : (
+          <>
+            The future of shopping<br />
+            might look a lot like<br />
+            its past
+          </>
+        )}
             </h1>
           </Reveal>
 
@@ -168,7 +179,7 @@ export function Hero() {
           {/* READ ARTICLE (with divider) — builds third, beneath the paragraph */}
           <Reveal
             delay={1}
-            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1700) : r(550) }}
+            style={{ position: "absolute", left: isMobile ? r(20) : r(59), top: isMobile ? r(1600) : r(550) }}
           >
           <ReadLink href="/article/the-future-of-shopping-might-look-a-lot-like-its-past?from=home" style={{ position: "absolute",left: isMobile ? r(60) : 0, top: isMobile? r(0) : r(18), fontSize: isMobile ? r(50) : undefined}} isMobile={isMobile} />          </Reveal>
 
