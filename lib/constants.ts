@@ -314,8 +314,8 @@ export const EDITORIAL_ARTICLES_1: GCard[] = [
     top: 0,
     blurb:
       "Agentic AI has moved past the demonstration stage in retail. A look at five operational...",
-    caption: "From Tools to Agents",
-    title: "From Tools to Agents",
+    caption: "From tools to agents",
+    title: "From tools to agents",
     href: "/article/from-tools-to-agents",
     author: "In collaboration with Birdeye",
     image: "Birdeye-Tile.jpg",
